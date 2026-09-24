@@ -26,7 +26,21 @@ Check whether sentences usually move from active/known information toward new in
 
 Repair unexplained jumps before adding transition words.
 
-## Pass 3 — Sentence roles
+## Pass 3 — Cohesion and connectives
+
+Read `brain/05a-cohesion-and-connectives.md`.
+
+At each paragraph or sentence boundary ask:
+- what is the actual relation: addition, contrast, consequence, qualification, development or restatement?
+- does the reader need that relation named?
+- if named, is the connective in the strongest position?
+- has the same connective or paragraph-opening pattern appeared too recently?
+
+Do not treat an explicit connective as a defect when it improves orientation or force.
+
+Do not add one merely because the prose feels like it needs "flow".
+
+## Pass 4 — Sentence roles
 
 Label each sentence:
 - hard fact;
@@ -39,7 +53,7 @@ Label each sentence:
 
 If a paragraph contains four sentences doing the same job, vary the job or compress.
 
-## Pass 4 — Strong positions
+## Pass 5 — Strong positions
 
 Inspect sentence beginnings and endings.
 
@@ -48,7 +62,7 @@ Move:
 - consequential information toward endings;
 - unnecessary caveats away from the main clause unless uncertainty is the point.
 
-## Pass 5 — Marked language
+## Pass 6 — Marked language
 
 Highlight every unusual phrase.
 
@@ -60,7 +74,7 @@ For each, ask:
 
 If merely decorative, delete.
 
-## Pass 6 — Read aloud
+## Pass 7 — Read aloud
 
 Listen for:
 - repeated cadence;
@@ -68,6 +82,7 @@ Listen for:
 - stacked triads;
 - overused parenthetical/dash rhythm;
 - tiny sentence drumbeats;
+- paragraph-opening connective wallpaper;
 - every paragraph landing too neatly.
 
 Do not sand away all irregularity.

@@ -8,9 +8,11 @@ Resolve:
 - target reader;
 - article format;
 - requested style/profile;
-- desired length;
+- length constraint, if the user/publication actually has one;
 - publication constraints;
 - whether external research is allowed/required.
+
+If no real length constraint exists, do not invent one yet.
 
 Do not ask for information already present in supplied sources.
 
@@ -22,7 +24,7 @@ Build the claim ledger. Separate known facts from attributed claims, inference a
 
 Research blockers before prose.
 
-## Stage 2 — Proposition
+## Stage 2 — Proposition and scope
 
 Read `brain/01-editorial-proposition.md`.
 
@@ -31,9 +33,12 @@ Write:
 - story question;
 - reader prior model;
 - model change;
-- payoff.
+- payoff;
+- rough scope implied by the reader's need and the supported depth.
 
 If the proposition is weak, keep reporting or reframe.
+
+For narrow practical/search-intent questions, plan to surface the direct answer early and let nuance follow. Do not pad to a generic SEO length.
 
 ## Stage 3 — Choose format
 
@@ -55,6 +60,8 @@ Outline 3–7 major beats. For each:
 - handoff to next beat.
 
 Choose an opening mechanism and an ending function.
+
+Give beats only the space their work deserves. Do not allocate equal word counts by template.
 
 ## Stage 5 — Load style
 
@@ -80,6 +87,7 @@ While drafting:
 - let paragraph lengths follow function;
 - allow plain language to dominate;
 - use marked phrases sparingly;
+- use explicit connectives when they expose a real logical relation;
 - do not explain every implication immediately;
 - do not force a conclusion at every paragraph end.
 
@@ -95,14 +103,15 @@ Run `editors/evidence-editor.md`.
 
 Resolve blockers before polishing.
 
-## Stage 9 — Line / voice edit
+## Stage 9 — Line / voice / cohesion edit
 
 Read:
 - `brain/04-sentence-paragraph-rhythm.md`
 - `brain/05-voice-and-language.md`
+- `brain/05a-cohesion-and-connectives.md`
 - `editors/line-and-rhythm.md`
 
-Tune cadence and diction to the selected profile.
+Tune cadence, cohesion and diction to the selected profile.
 
 ## Stage 10 — Adversarial anti-slop pass
 
@@ -112,14 +121,18 @@ Run:
 
 Diagnose synthetic texture and comprehension separately.
 
+Do not remove legitimate connective language merely because it is visible.
+
 ## Stage 11 — Final verification
 
 Check:
 - proposition developed rather than repeated;
 - key facts sourced;
 - uncertainty visible;
+- length earned by reader need and genuine editorial beats;
 - headline/standfirst fit article;
 - opening earns attention without deception;
+- logical relations are visible where the reader needs them;
 - ending adds rather than summarizes;
 - style profile is detectable through decisions, not costume.
 

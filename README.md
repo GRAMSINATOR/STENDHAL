@@ -2,7 +2,7 @@
 
 **A second brain for serious article writing.**
 
-STENDHAL is a Markdown-first editorial system for agents. It helps a model build a defensible story, choose the right article structure, switch between recognizable publication characters, and then edit aggressively for evidence, rhythm, comprehension and AI-slop patterns.
+STENDHAL is a Markdown-first editorial system for agents. It helps a model build a defensible story, choose the right article structure, switch between recognizable publication characters, and then edit aggressively for evidence, rhythm, cohesion, comprehension and AI-slop patterns.
 
 There is deliberately almost no code.
 
@@ -13,7 +13,7 @@ STENDHAL treats writing as a stack:
 ```
 EVIDENCE
   ↓
-EDITORIAL PROPOSITION
+EDITORIAL PROPOSITION + READER NEED
   ↓
 ARTICLE FORMAT
   ↓
@@ -22,6 +22,8 @@ STRUCTURE / INFORMATION ORDER
 PUBLICATION STYLE ENGINE
   ↓
 SENTENCE + PARAGRAPH RHYTHM
+  ↓
+COHESION / CONNECTIVES
   ↓
 ADVERSARIAL EDIT
 ```
@@ -45,13 +47,14 @@ Then choose a workflow:
 
 `brain/` contains the canonical principles:
 
-1. editorial proposition
+1. editorial proposition and scope
 2. evidence and justification
 3. structure and sequencing
 4. sentence and paragraph rhythm
 5. voice and language
-6. anti-slop
-7. style engine
+6. cohesion and connectives
+7. anti-slop
+8. style engine
 
 These are meant to be read together, not copied into one giant prompt.
 
@@ -93,11 +96,15 @@ The point is not bureaucracy. The point is that factual confidence and conspicuo
 
 ## Anti-slop
 
-STENDHAL does not solve AI prose by banning `delve`.
+STENDHAL does not solve AI prose by banning `delve` or `however`.
 
-It looks for structural fingerprints: identical paragraph jobs, repeated rhetorical moulds, equal weighting, medium-sentence monotony, over-signposting, abstract actors, thesis repetition and decorative quirks spread evenly.
+It looks for structural fingerprints: identical paragraph jobs, repeated rhetorical moulds, equal weighting, medium-sentence monotony, empty signposting, abstract actors, thesis repetition and decorative quirks spread evenly.
 
 It separately checks whether a fresh reader can follow the piece.
+
+## Calibration
+
+[references/CALIBRATION-LOG.md](references/CALIBRATION-LOG.md) records lessons from real outputs before they harden into universal rules.
 
 ## Source lineage
 

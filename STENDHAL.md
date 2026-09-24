@@ -27,8 +27,9 @@ For any substantial article, read these in order:
 6. the requested file in `styles/` if one is requested
 7. `brain/04-sentence-paragraph-rhythm.md`
 8. `brain/05-voice-and-language.md`
-9. `brain/06-anti-slop.md`
-10. the relevant editors in `editors/`
+9. `brain/05a-cohesion-and-connectives.md`
+10. `brain/06-anti-slop.md`
+11. the relevant editors in `editors/`
 
 Use `workflows/write.md` for new work and `workflows/rewrite-style.md` for style transfer.
 
@@ -44,6 +45,7 @@ A lower layer may not corrupt a higher layer.
 - a publication profile may not force a format it would not suit.
 - anti-slop editing may not flatten legitimate complexity.
 - readability rules are diagnostics, not commandments.
+- connective language may expose real logic, but may not substitute for it.
 
 ## The three passes
 
@@ -54,7 +56,7 @@ Before prose, define the proposition and evidence map. Decide what the reader sh
 Choose a format, structure, and style engine. Draft in functional beats. Each paragraph must have a job.
 
 ### 3. Adversarial edit
-Separate the writer from the critic. Audit structure, evidence, rhythm, comprehension, and synthetic texture. Revise only after the diagnosis is specific.
+Separate the writer from the critic. Audit structure, evidence, rhythm, cohesion, comprehension, and synthetic texture. Revise only after the diagnosis is specific.
 
 ## Styles are engines, not costumes
 
@@ -66,6 +68,7 @@ A publication style is described by:
 - authorial presence;
 - attitude toward judgement;
 - sentence movement;
+- connective visibility;
 - wit/metaphor budget;
 - evidence cadence;
 - endings.
@@ -82,6 +85,7 @@ Every paragraph must perform a discernible editorial function. Every conspicuous
 - change pace;
 - create narrative pressure;
 - clarify scale;
+- expose a real logical relation;
 - carry attitude more precisely than neutral phrasing would.
 
 If a device exists only to make the prose feel written, delete it.

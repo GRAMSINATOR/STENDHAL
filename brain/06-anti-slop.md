@@ -14,7 +14,7 @@ Watch for density of these patterns:
 - each paragraph closes with a little conclusion;
 - the thesis is restated instead of developed;
 - consecutive paragraphs use identical shapes;
-- every transition is announced;
+- discourse markers appear mechanically at paragraph openings without adding logical information;
 - all sentence lengths converge toward the same middle;
 - rhetorical questions occur on schedule;
 - oppositions recur as "not X but Y";
@@ -22,6 +22,20 @@ Watch for density of these patterns:
 - headings or bold-label bullets substitute for prose.
 
 One instance may be fine. Density is the signal.
+
+## Connectives are not slop
+
+Words such as `however`, `therefore`, `yet`, `still`, `indeed`, `instead`, `more importantly` and `in other words` are legitimate rhetorical tools.
+
+Flag them only when:
+- the logical relation they claim is absent;
+- the same marker recurs mechanically;
+- several consecutive paragraphs depend on explicit signposting;
+- the marker substitutes for an actual transition in thought.
+
+Do not delete visible rhetoric merely to look less machine-made.
+
+See `brain/05a-cohesion-and-connectives.md`.
 
 ## Lexical tells
 
@@ -71,7 +85,8 @@ Search for repeated rhetorical moulds:
 - "The result";
 - "From X to Y";
 - negation reversals;
-- one-sentence paragraph beats.
+- one-sentence paragraph beats;
+- repeated paragraph-opening connectives.
 
 Keep the best instance. Remove most of the rest.
 

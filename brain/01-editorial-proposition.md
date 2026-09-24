@@ -46,6 +46,23 @@ Name:
 
 Do not write for "everyone".
 
+## Scope and length
+
+Length should be a consequence of the reader's need and the depth of the supported problem, not a generic prestige or SEO target.
+
+For a narrow practical question:
+- give the usable answer early;
+- let nuance, evidence and edge cases follow;
+- stop when the reader's likely next questions have been answered.
+
+For a genuinely deep subject:
+- allow the article to grow when additional beats change the model;
+- do not compress away necessary context merely to hit an arbitrary number.
+
+Budget space by editorial work, not equality. A difficult mechanism may deserve 400 words while a simple caveat needs 40.
+
+A long article must earn its length through new information, explanation, evidence or consequence. Repetition is not depth.
+
 ## The spine
 
 Before drafting, reduce the article to 3–7 beats. Each beat must either:

@@ -1,0 +1,194 @@
+{
+  "schema": "stendhal.compositional-field.draft-0",
+  "status": "hypothesis-unvalidated",
+  "source": "experiments/001/01-locked-material.md",
+  "regime": "exploratory-literary / no actual scene reporting",
+  "units": [
+    {
+      "id": "U1",
+      "kind": "material-operation",
+      "scope": "paragraph",
+      "description": "Make public access to time an object of attention without immediately invoking numerical success or failure.",
+      "epistemic_status": "creative-proposal"
+    },
+    {
+      "id": "U2",
+      "kind": "material-operation",
+      "scope": "paragraph",
+      "description": "Let how time is used emerge indirectly: study, meetings, and unrecorded durations; avoid inventing particulars of people's lives.",
+      "epistemic_status": "creative-proposal"
+    },
+    {
+      "id": "U3",
+      "kind": "material-operation",
+      "scope": "passage",
+      "description": "Introduce reassigned staff-time as a different species of time, rather than a conveniently dramatic opposite to visitor counts.",
+      "epistemic_status": "creative-proposal"
+    },
+    {
+      "id": "U4",
+      "kind": "reader-state-hypothesis",
+      "scope": "passage",
+      "description": "Allow the reader to suspect that different clocks govern what the institution provides and what it measures. Do not declare a universal social thesis.",
+      "epistemic_status": "speculative-reader-effect"
+    },
+    {
+      "id": "U5",
+      "kind": "formal-operation",
+      "scope": "ending",
+      "description": "Withhold a tidy conclusion; leave two non-equivalent forms of time in proximity.",
+      "epistemic_status": "creative-proposal"
+    },
+    {
+      "id": "L1",
+      "kind": "lexical-candidate",
+      "scope": "word-or-phrase",
+      "description": "Hours: possible polysemous hinge between opening hours, staff-hours and time spent by visitors. Not a required word.",
+      "epistemic_status": "creative-candidate"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "T1",
+      "domain": "semantic",
+      "participants": [
+        {
+          "unit": "U1",
+          "role": "introduce"
+        },
+        {
+          "unit": "U3",
+          "role": "recontextualise"
+        },
+        {
+          "unit": "U5",
+          "role": "leave-open"
+        }
+      ],
+      "hypothesis": "Time changes meaning as different activities receive or consume it.",
+      "reach": "passage",
+      "reader_horizon": "extended"
+    },
+    {
+      "id": "T2",
+      "domain": "lexical-motif",
+      "participants": [
+        {
+          "unit": "U1",
+          "role": "seed"
+        },
+        {
+          "unit": "L1",
+          "role": "candidate-realisation"
+        },
+        {
+          "unit": "U3",
+          "role": "return"
+        },
+        {
+          "unit": "U5",
+          "role": "residue"
+        }
+      ],
+      "hypothesis": "One semantic family can acquire new valences in distinct locations.",
+      "reach": "work-or-passage",
+      "reader_horizon": "delayed"
+    },
+    {
+      "id": "T3",
+      "domain": "subtext",
+      "participants": [
+        {
+          "unit": "U2",
+          "role": "provide-trace"
+        },
+        {
+          "unit": "U4",
+          "role": "possible-inference"
+        },
+        {
+          "unit": "U5",
+          "role": "avoid-explication"
+        }
+      ],
+      "hypothesis": "Institutional value may be sensed through what the record fails to distinguish, without a central authorial pronouncement.",
+      "reach": "passage",
+      "reader_horizon": "extended"
+    },
+    {
+      "id": "T4",
+      "domain": "epistemic",
+      "participants": [
+        {
+          "unit": "U2",
+          "role": "limit-unobserved-detail"
+        },
+        {
+          "unit": "U3",
+          "role": "avoid-causal-claim"
+        },
+        {
+          "unit": "U4",
+          "role": "mark-as-hypothesis"
+        }
+      ],
+      "hypothesis": "Figurative or speculative composition must not smuggle facts or causal conclusions.",
+      "reach": "all",
+      "reader_horizon": "all"
+    }
+  ],
+  "constraints": [
+    {
+      "id": "C1",
+      "kind": "hard-fact",
+      "description": "Opening hours extended 8 weeks; visits +24%; loans -9%; 12 staff-hours/week reassigned; studies/meetings observed; reason for loan drop unknown."
+    },
+    {
+      "id": "C2",
+      "kind": "evidence",
+      "description": "No invented witnessed dialogue, scenes or identifiable individuals."
+    },
+    {
+      "id": "C3",
+      "kind": "discourse",
+      "description": "No faux-paradox about diverging metrics."
+    },
+    {
+      "id": "C4",
+      "kind": "aesthetic-hypothesis",
+      "description": "Avoid a moral or explanatory closing sentence; may be overridden if the commissioned world deliberately requires closure."
+    }
+  ],
+  "perturbation_candidates": [
+    {
+      "id": "P1",
+      "operation": "transpose",
+      "target": "U3",
+      "proposal": "Place staff time before visitor time and test whether the entire field changes its implied centre."
+    },
+    {
+      "id": "P2",
+      "operation": "suppress",
+      "target": "L1",
+      "proposal": "Remove the explicit lexical echo and see whether structural recurrence alone sustains the field."
+    },
+    {
+      "id": "P3",
+      "operation": "reassign-function",
+      "target": "U5",
+      "proposal": "Replace withholding with a concrete operational question; test as a different non-literary regime."
+    },
+    {
+      "id": "P4",
+      "operation": "transform-space",
+      "target": "T1",
+      "proposal": "Reject 'time' altogether and explore a spatial, acoustical or procedural conceptual space; no automatic preference for the original motif."
+    }
+  ],
+  "outstanding_questions": [
+    "What, exactly, makes these track hypotheses identifiable in text?",
+    "Is 'hours' too obvious as a motif?",
+    "Are we still concealing a tidy essay thesis inside a pre-verbal representation?",
+    "How can a non-essay regime reject the entire candidate field?"
+  ]
+}

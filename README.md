@@ -1,123 +1,30 @@
-# STENDHAL
+# STENDHAL — greenfield research workbench
 
-**A second brain for serious article writing.**
+This branch is a **ground-up reconception** of STENDHAL, not a refactor of v0.1. The original `main` remains intact as historical evidence, not inherited authority.
 
-STENDHAL is a Markdown-first editorial system for agents. It helps a model build a defensible story, choose the right article structure, switch between recognizable publication characters, and then edit aggressively for evidence, rhythm, cohesion, comprehension and AI-slop patterns.
+**North star:** repeatable, situated, fine-grained **enactive craft** — the ability to deliberately construct writing, adjust specific properties, preserve others, and recognise the consequences.
 
-There is deliberately almost no code.
+Extraction and enaction are **co-designed recursively**. Extractive analysis proposes mechanisms; attempted enactment tests whether those models are useful; unexpected failures reopen the extraction. Editorial intelligence is a deeper, adversarial refactoring of the *approach and qualitative aims*, not merely proofreading.
 
-## What it is
+## Provisional workbench (not final product taxonomy)
 
-STENDHAL treats writing as a stack:
+- [design/00-commitments.md](design/00-commitments.md) — architectural constraints and anti-goals.
+- [design/01-enactive-problem.md](design/01-enactive-problem.md) — first capability requirements and candidate module interfaces.
+- [research/00-reading-map.md](research/00-reading-map.md) — vetted starting literature, critical extraction questions and limitations.
+- [experiments/00-first-vertical-slice.md](experiments/00-first-vertical-slice.md) — initial test design across writing regimes and altitudes.
+- [feedback/00-revision-protocol.md](feedback/00-revision-protocol.md) — how operator criticism changes knowledge and architecture without accumulating brittle universal rules.
 
-```
-EVIDENCE
-  ↓
-EDITORIAL PROPOSITION + READER NEED
-  ↓
-ARTICLE FORMAT
-  ↓
-STRUCTURE / INFORMATION ORDER
-  ↓
-PUBLICATION STYLE ENGINE
-  ↓
-SENTENCE + PARAGRAPH RHYTHM
-  ↓
-COHESION / CONNECTIVES
-  ↓
-ADVERSARIAL EDIT
-```
+**Not yet decided:** final folders, exhaustive technique ontology, universal technique metadata schema, a single writing process, any aesthetic ranking, the future atlas schema.
 
-The lower layers are not allowed to corrupt the higher ones.
+The physical filesystem should eventually make **technique families**, **lexical packages**, **writing profiles**, and **reference sheets** navigable and inspectable. Their interdependencies can be linked nonlinearly, case by case. Nothing in this workbench settles their final containment hierarchy.
 
-The core idea: **good journalism is not a tone. It is machinery.**
+## Phase-one acceptance questions
 
-## Start here
+1. Can the system enact specific rhetorical operations rather than merely produce plausible prose?
+2. Can it vary one quality without casually destroying other qualities?
+3. Can it explain and test a proposed mechanism through multiple independent lenses?
+4. Can a distinctive authorial regime govern or reject a default procedure?
+5. Can qualitative feedback produce a **scoped** revision with observable improvement rather than a new blanket prohibition?
+6. Can the system recognise when it has insufficient understanding to assert a diagnosis?
 
-Agents should read [STENDHAL.md](STENDHAL.md).
-
-Then choose a workflow:
-
-- [write a new article](workflows/write.md)
-- [rewrite into another style](workflows/rewrite-style.md)
-- [audit existing prose](workflows/audit.md)
-- [learn a new publication/house style](workflows/learn-style.md)
-
-## The brain
-
-`brain/` contains the canonical principles:
-
-1. editorial proposition and scope
-2. evidence and justification
-3. structure and sequencing
-4. sentence and paragraph rhythm
-5. voice and language
-6. cohesion and connectives
-7. anti-slop
-8. style engine
-
-These are meant to be read together, not copied into one giant prompt.
-
-## Formats
-
-Current format modules:
-
-- hard news
-- analysis / explainer
-- reported feature
-- profile
-- opinion / argument essay
-- science / technical journalism
-
-Format comes before publication style.
-
-## Publication profiles
-
-Current profiles:
-
-- Financial Times
-- The Economist
-- New York Times narrative feature
-- The Atlantic feature / essay
-- Bloomberg Businessweek
-- Reuters
-
-The profiles model recurring editorial behaviour: information order, compression, scene allowance, judgement, cadence, evidence and endings. They are not phrasebooks.
-
-## Justified writing
-
-STENDHAL can maintain an internal editorial ledger:
-
-```
-claim → evidence state → paragraph job → why here → handoff → style device
-```
-
-The point is not bureaucracy. The point is that factual confidence and conspicuous stylistic choices should have reasons.
-
-## Anti-slop
-
-STENDHAL does not solve AI prose by banning `delve` or `however`.
-
-It looks for structural fingerprints: identical paragraph jobs, repeated rhetorical moulds, equal weighting, medium-sentence monotony, empty signposting, abstract actors, thesis repetition and decorative quirks spread evenly.
-
-It separately checks whether a fresh reader can follow the piece.
-
-## Calibration
-
-[references/CALIBRATION-LOG.md](references/CALIBRATION-LOG.md) records lessons from real outputs before they harden into universal rules.
-
-## Source lineage
-
-STENDHAL synthesizes ideas from journalism craft, style guides and several open-source writing skills. See [references/LINEAGE.md](references/LINEAGE.md).
-
-Notable upstream influences include:
-- stellarshenson/claude-code-plugins popular-science;
-- OpenCue cuecards ai-slop-detector;
-- joelio/plain-english;
-- Ably's writing style guide;
-- Clayton Roche's Economist writing notes;
-- a user-supplied 2026 research memo on editorial voice.
-
-## Status
-
-v0.1 is intentionally a compact editorial brain rather than a software framework. Add style profiles and calibration material only when they improve judgement rather than prompt bulk.
+**Rule:** a source, an observation, a craft hypothesis, an experimentally supported mechanism and an editorial preference are different epistemic objects.

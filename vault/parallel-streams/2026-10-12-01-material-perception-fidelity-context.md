@@ -139,3 +139,7 @@ These are not commensurate numbers or parallel “layers”. One may interfere w
 Run the E07-03 packet with judges blinded to the style manual's headings. First ask only what each sentence commits to; then ask which is better in different explicit situations; only finally reveal the source advice. A discriminating editor should neither identify everything as a passive nor promote the most vigorous rewrite when it falsifies the brief. Measure different kinds of success separately and solicit countercontexts. No fixed metric of good prose has been introduced.
 
 **Caution:** Source criticism of Austen's facsimile remains an open task. Keep literal observed string differences separate from theory of free indirect style and from conjecture about Austen's intentional revisions.
+
+## Operator correction: intention and outcome co-generate without requiring each other (2026-10-12)
+
+**Read [the complete correction and research plan](2026-10-12-02-intention-outcome-autopoiesis-and-partial-control.md) before promoting an intention-centred fidelity criterion.** Outcomes exist and matter even where no intention is recoverable; intention may itself arise recursively from textual outcomes. Skill does not require conscious control of all interacting properties; productive undercontrol can be constitutive of style. Scientific fidelity remains task-appropriate, not a universal court of literary value. None of these statements licenses invented agency or invalid witness attribution. No new mandatory process was adopted.

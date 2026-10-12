@@ -249,3 +249,13 @@ No requirement for a text to traverse these patterns. A skilled author can write
 **Falsifiers / damage criteria:** if every trajectory produces the same polite assistant prose; if iterative steps hallucinate meaning to justify random edits; if raw redundancy never yields better usable material than direct composition; if expensive perception detects dozens of patterns but fails to notice basic factual incoherence; if process destroys beautiful original irregularity; if reader preference depends only on total generation budget rather than trajectory; if a simple first-pass solution reliably beats our transformations in tested regimes.
 
 **M03's purpose is to make productive processes *available* and experimentally discriminable, not to dictate how all writing must happen.**
+
+## First executed process prototype — EXP-013 (2026-10-12)
+
+[EXP-013](../../experiments/013-directional-process-prototype/README.md) advances beyond the source-only [EXP-012](../../experiments/012-multilayer-process-studio/README.md). It has a **runnable deterministic process harness**, explicit externally authored aims/candidates, witness-grounded annotations, elementary real textual transformations, preserved alternatives, and 16 locally passed Python tests. Two genres and ten annotated variant texts were used.
+
+Most important new distinction: **movement is not novelty of wording**. A bus-report passage can spend 28 words on five variants of one fact; a repeated `cold` can instead grow a changed function. A rhetorically vigorous new passenger anecdote may also be **unsupported factual invention** in nonfiction. The directional ledger is therefore a record of *task-relevant changes and possible reader-state consequences*, with separate epistemic constraints and acknowledged uncertainty, **not** a global scalar of sentence quality.
+
+**Remaining gap:** the engine does not perform exquisite autonomous perception. Human-authored contribution labels determine whether a beat repeats or moves; machine checks cover only string witnesses and declared premises. P1 must introduce separately generated, adversarially examined perceptual reports and then fresh generation, against equal-budget one-shot baselines. Intention refactoring is externally logged but currently fixed by the experimenter, not autonomously discovered.
+
+The program's failed raw primitive swaps—subject/verb disagreement and misplaced spatial complements—also reinforce a requirement already visible in the operator's piano case: primitive creativity and **high-resolution realisation/perception** are different capacities that must collaborate. Never convert this into “always maximise intentional control”; accidentally effective material still deserves preservation.

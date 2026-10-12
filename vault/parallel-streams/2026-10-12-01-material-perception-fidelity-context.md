@@ -143,3 +143,19 @@ Run the E07-03 packet with judges blinded to the style manual's headings. First 
 ## Operator correction: intention and outcome co-generate without requiring each other (2026-10-12)
 
 **Read [the complete correction and research plan](2026-10-12-02-intention-outcome-autopoiesis-and-partial-control.md) before promoting an intention-centred fidelity criterion.** Outcomes exist and matter even where no intention is recoverable; intention may itself arise recursively from textual outcomes. Skill does not require conscious control of all interacting properties; productive undercontrol can be constitutive of style. Scientific fidelity remains task-appropriate, not a universal court of literary value. None of these statements licenses invented agency or invalid witness attribution. No new mandatory process was adopted.
+
+
+## Temporary modelling phase — M01 / Expressive Ecology (2026-10-12)
+
+Following the operator's observation that characteristic **looseness** may emerge from uneven awareness/control across intertwined scales, the stream has entered a **temporary-model / break / return-to-research** cadence, not a production architecture lock.
+
+**[M01 — three vulnerable complementary models](../../design/provisional-models/M01-expressive-ecology.md):**
+- **A, expressive field:** what overlaps and interacts in the actual material;
+- **B, generative trajectory:** how text, process, intention, results and later intentions may relate nonlinearly or remain independent;
+- **C, constraint/freedom ecology:** apparent looseness, patterned asymmetry and stylistic texture across different layers, critically separated from claims about the maker's conscious control.
+
+**[EXP-006 — adversarial breakers](../../experiments/006-expressive-ecology-breakers/README.md)** contains eight test designs and one openly self-assessed synthetic dry run (tight/loose/fragmentary/associative variations of one fiction kernel). No human-reader or multi-model experiment is reported as completed.
+
+**Immediate correction:** visible looseness does not identify actual production control. A tightly revised simulation and an unmonitored spontaneous draft can have similar textures. Conversely, highly deliberate local regularity and chance stylistic effects can coexist.
+
+**Proposed rivals:** M02 constraint topology without assumed intention or trajectory, M03 situated reception-first, M04 material-generation-first, M05 adversarial anti-model. Build separately and allow contradictory conclusions; measure explanatory discrimination and failures rather than theory breadth. Preserve the source vault and evidence statuses as independent authority from the model.

@@ -79,3 +79,40 @@ Present a paired utterance with a documented situational function. Produce (a) f
 - New research files in this stream get unique paths to avoid collision with the ongoing conversation; link into the shared index deliberately when coordination is appropriate.
 
 **Checkpoint:** the three linked excavations above were written to the same greenfield branch, not merged into `main`. Further work can extend either the source dossiers or the practical probes; no new ontology was ratified.
+
+
+## Expedition II — direct microcomparisons and a real expert dispute (2026-10-12)
+
+**Status:** source-close readings, not adopted architecture. Unique new files in this parallel branch:
+
+1. **[W08-06: al-Jurjānī, Arabic contrastive negation](../territories/08-comparative-oral-world-poetics/excavations/W08-06-al-jurjani-negation-and-agent-focus.md)** — changing the position of subject or object under negation shifts what al-Jurjānī treats as established and what is denied. He tests with **contradictory and compatible continuations**. Source: original Arabic *Dalāʾil al-Iʿjāz*, §116–118.
+2. **[W08-07: Ānandavardhana, Prakrit invitation/warning](../territories/08-comparative-oral-world-poetics/excavations/W08-07-dhvanyaloka-primary-prakrit-invitation.md)** — literal permission can yield contextual prohibition; differentiate original Prakrit verse from Sanskrit gloss and later commentator's meeting-of-lovers scenario.
+3. **[W08-08: Sanskrit consonant material and rasa](../territories/08-comparative-oral-world-poetics/excavations/W08-08-dhvanyaloka-consonant-rasa-and-trivedi-objection.md)** — *Dhvanyāloka* 3.3–4 discusses the **same consonant patterns differently in erotic versus disgust settings**. This is an ancient theoretical claim, not experimentally measured listener response or proof of an LLM phonological deficit. Modern critic Trivedi challenges universal single-rasa dominance and the identification of concept-recognition with felt affect.
+4. **[E03-02: Austen's Emma carriage paragraph](../territories/03-narrative-subtext/excavations/E03-02-austen-emma-carriage-voice-transition.md)** — narratorial prose progressively carries Emma's unquoted self-accusations without a gross person/tense switch. Gutenberg and Wikisource differ in a small lexical and punctuation detail: source witnesses have not been reconciled.
+5. **[W08-09: Ānandavardhana / Mahimabhaṭṭa expert opposition](../territories/08-comparative-oral-world-poetics/excavations/W08-09-dhvani-versus-inference-expert-opposition.md)** — **same poem, different proposed explanatory mechanism** (poetic suggestion versus ordinary inference). Rajendran also documents divergence of expert interpretations of a separate lover's dismissal. *Vyaktiviveka* original passages still need independent philological collation.
+
+### Observed dimensions of difference—do not turn this into a single classification
+
+- Arabic text: *scope of denial and conversational presuppositions*.
+- Prakrit poem: *literal communicative act versus contextually inferred practical uptake*.
+- Sanskrit sound material: *phoneme / rasa suitability as a culturally situated aesthetic doctrine*.
+- English novel: *source and felt proximity of verbal judgments, without change of narrative person*.
+- Expert opposition: *same interpretive endpoint does not establish the same cognitive/explanatory mechanism*, and the endpoint itself can be debated.
+
+These are not commensurate numbers or parallel “layers”. One may interfere with the others at any scale.
+
+### Candidate probes to design next
+
+**P-D — discourse continuation test:** After a transformation of negative word order, ask whether follow-up sentences are compatible; distinguish literal entailment, presupposition, conversational implicature, speech focus, and culturally specific usage.
+
+**P-E — suggestion vs inference:** Give a speaker's line with progressive context disclosure, collect interpretation, rationale, and uncertainty **without** treating retrospective explanations as evidence of internal model process.
+
+**P-F — consonant-context and voice gradient:** Compare phonology labelling with spontaneous sound-sensitive composition across very different aesthetics; independently study Austen-like narrator/character interpenetration by change-localised rewrites and reader judgments. No cross-language transplant of Sanskrit phoneme taste.
+
+### Gate remaining
+
+- Exact primary passages in Mahimabhaṭṭa's original `Vyaktiviveka`, an independent edition/translation of `Dhvanyāloka` 3.3–4, critical Arabic edition collation, and Austen copy-text/first-edition comparison.
+- Run human evaluation or falsifiable model tests; none of the five source studies is yet an enacted validated capability.
+- Keep other regions genuinely open: 04 oratory, 06 reader reception, 07 failed style diagnoses, 02 genetic revisions.
+
+**Parallel stream now has two chronological tranches. No changes to `main`, no merge, no universal writing machine adopted.**

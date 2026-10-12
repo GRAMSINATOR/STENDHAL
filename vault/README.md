@@ -28,3 +28,13 @@ Start with:
 8. No normative taste ranking or one universal quality score.
 
 **This vault does not replace the enactive workbench.** It discovers potential instruments, conflicts and questions; only subsequent experiments justify promoting any extraction into working capabilities.
+
+## Newly opened research tracks — 2026-10-12
+
+**[Revision archaeology](territories/02-linguistic-microfabric/genetic-revisions/README.md)** now includes [GR04: compose, erase and recompose](territories/02-linguistic-microfabric/genetic-revisions/GR04-rewrite-without-looking.md), alongside documented manuscript variations in Flaubert and Dickinson and a BnF Proust acquisition lead. GR04 preserves the difference between visible editing, remembered reconstruction and novel composition after the discarded draft has changed the writer's understanding.
+
+**[Phonological under-indexing](../research/04-phonological-under-indexing.md)** preserves the operator's narrower research proposition: sound-structure may be weakly represented, accessed or prioritised during text generation, independently of general stylistic 'control'. [Phonological form/meaning research](../research/05-phonological-form-meaning-research.md) collects outside human-language evidence; [Experiment 005](../experiments/005-phonological-indexing/README.md) is a proposed probe, **not a result**.
+
+**[Experiment 004](../experiments/004-blind-recomposition/README.md)** is a separate proposed comparison of fresh generation, visible revision, clean-context rewriting and rewriting given limited nonlexical observations from an earlier draft. It is **not** proof of LLM tacit experience or human cognition.
+
+These tracks remain separate until evidence establishes useful relationships. None prescribes a vector space or compulsory number of analytic passes.

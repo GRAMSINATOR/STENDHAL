@@ -93,3 +93,11 @@ An explicit source-span patch further changed **“Her heart beat faster as her 
 Your independent **Five Faces of Appeal** lenses can inform **what is worth noticing**, without becoming compulsory writing procedures: *Fluid* can interrogate pressure/continuity/pacing and releases; *Web* thematic and interpretative density; *Spice* the felt material specificity; *Bedrock* sustained value/grounding and underlying appeal where relevant. This quick correspondence does not establish one-to-one mappings or import the full framework; it is explicitly peripheral.
 
 **Outcome:** a runnable, falsifiable P0, plus known failures and P1 work queue. No claim that STENDHAL now writes better literature.
+
+## Post-P0 correction — “The piano raced over the keys” was not an artistic failure (2026-10-12)
+
+The original report described the raw verb-phrase swap as putting spatial complements on “inappropriate actors,” illustrated by `The piano raced over the keys`. **Keep the mechanical witness unchanged but narrow the diagnosis.** It failed to preserve the ordinary physical scene and actor/complement roles—not a universal test of literature. The same phrase may afford powerful absurdism, extreme comedy, or psychological disorientation.
+
+The operator identified an instructive adversarial source: **Giono's *Un roi sans divertissement***, where a lethal event becomes physically graphic, cosmically disproportionate, coldly casual, and philosophically destabilising without reducing to a malformed sentence. Tonal opposition may be valuable and may contribute to a whole-work movement; anticipatory preparation can matter, but isn't universally required.
+
+**New [EXP-014 / consequence-ledger](../014-contextual-consequence-ledger/README.md)** includes an executed locally packaged extension with 10 additional passing tests, four opposed context cards and explicit branch-preserving outcomes. [Research 10](../../research/10-giono-cosmic-rupture-tonal-consequence.md) gives the Giono source-reading and the failure of a binary anomaly detector. **The P0 rule “creative abstraction needs grammar repair” must not become the P1 rule “unusual grammar is bad art.”** A factual physical contract remains binding *when the commission specifies it*.

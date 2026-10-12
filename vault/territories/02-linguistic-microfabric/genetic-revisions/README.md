@@ -36,3 +36,11 @@ A model inventing alternate sentences is evidence of the model's choices. A phys
 The *Madame Bovary* project is vast, with manuscript and transcription work by Rouen; its archive access may be restricted/awkward for automatic retrieval. The more immediately auditable *L'Éducation sentimentale* folio is a better **first exact prose case**, not a change in the overall research mission.
 
 **Next archaeological task:** retrieve the photo of Flaubert's page one directly from Gallica and compare it with the specialist transcription; obtain an additional chronologically earlier rough draft from the new Chapter I collection and a publication witness. Then repeat the microscope pass on a *different* revision operation. None of those comparisons is claimed completed here.
+
+## Research update — process as a source of prose (2026-10-12)
+
+- [GR04 — Discarded draft and changed compositional state](GR04-discarded-draft-and-reconstitution.md): operator's precise erase-and-rewrite observation, related cognitive research and alternative mechanisms; the historical/experimental evidence remains incomplete.
+- [Material perception versus fluent semantic generation](../RESEARCH-WORD-MATERIAL-PERCEPTION.md): word texture, graphemes, phonemes, pragmatics, LLM architectural qualifications and possible reflective passes.
+- [EXP04 — Visible editing versus withheld regeneration](../../../experiments/EXP04-discarded-draft-prose-material.md): controlled experimental design; **not run**.
+
+None is a compulsory new drafting technique or proof of a universal rewrite benefit.

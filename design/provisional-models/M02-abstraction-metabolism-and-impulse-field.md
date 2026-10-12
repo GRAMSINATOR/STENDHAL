@@ -2,13 +2,39 @@
 
 **2026-10-12.** **Status:** disposable generative hypothesis, deliberately distinct from M01. Not an empirical discovery or product ontology. Subject to destructive tests. [M01](M01-expressive-ecology.md) describes field / trajectory / constraint ecology; **M02 asks how abstractions themselves can open writing possibilities.**
 
-## Operator-originating proposition (preserve conviction, do not dilute)
+## Operator-originating proposition — clarification of 2026-10-12 (authoritative for M02)
 
 > Creativity is nothing but the deep assimilation of abstractions.
 
-This is a **strong philosophical hypothesis from the operator**, not a proven universal psychological definition. Resist both easy replies: (a) “creativity is just recombination,” which is weaker, and (b) “abstractions plus rules guarantee art,” which is false on its face. Try first to uncover what the proposition permits us to *do*.
+**The operator's essential clarification:**
+- **All humans are creative.** Everyone deeply assimilates at least some fundamental abstractions—addition, subtraction, rotation, inversion, etc.—at the roots of their mind/world models. They can spontaneously apply those abstractions to almost anything.
+- **Even dumb, indiscriminate application of basic transformers can produce creative results.** No high intelligence, expert planning, aesthetic filtering or conscious deliberation is a prerequisite for the *production of novelty*.
+- **Higher cognition does not intrinsically create “more creativity”; it makes more sophisticated creativity accessible.** Larger, more intricate abstractions demand more cognitive capacity to assimilate deeply and deploy generally.
+- **Abstractions function as tools/transformers**, not primarily names for literary techniques. Once integrated at the root, an abstraction is available cross-domain without consulting a catalogue.
+- Sophistication, originality, aesthetic quality, intentionality and creative generativity **must not be collapsed** into one metric. Basic transforms may produce extraordinary work; advanced transforms can produce dead prose.
 
-Deep assimilation is not having a label, a worked example, a lookup table, or a list of transformations. Operationally, it would mean recognising an abstraction under unfamiliar encodings; mapping its relevant structure across domains; combining it with other abstract operations; discovering its limits; repairing mappings when essential relationships fail; and allowing transformed results to revise the abstraction itself. **Those are our experimental criteria, not a literal operational definition of human creativity.**
+This is the operator's strong philosophical proposal, not an established universal theorem of psychology. We should test its **distinctive predictions**, not defensively redefine “deep assimilation” as expert transfer, optimal selection or post-hoc conceptual explanation.
+
+### A primitive-first candidate mechanism
+
+**An available abstraction + an encountered substrate + an application ⇒ a changed possibility.**
+
+The substrate may be an object, relation, inference, sound, sequence, action, word, conversation, expectation, operator, or an earlier transformation. A change can be trivial, valuable, ugly, absurd, accidental, profound or merely different. It need not be planned or recognisable to its maker as “creative”.
+
+**Deeply assimilated** here describes the abstraction's *root availability and general applicability* inside a mind/world model; it does **not** require sophisticated explicit reflection. Complex abstractions are assimilable too, but require greater capacity to internalise as equally general tools. This may expand the kinds of transformations accessible without supplying a linear ranking of creativity.
+
+Our earlier wording (“its expressive power arises from identifying the right local relational structure...”) accidentally imposed skillful discrimination as a condition of creativity. **Correction:** transformation can create novelty before good selection. Perception, craft judgment and editing may alter the quality or purpose of what happens, not confer creative existence on it.
+
+### Distinguish generativity from craft assessment
+
+- **Availability:** which abstractions are fundamentally accessible?
+- **Application:** on what objects do they operate, deliberately or casually?
+- **Generative consequences:** what genuinely changed or became newly possible?
+- **Sophistication:** how intricate are the abstractions and compositions deployed?
+- **Craft / aesthetic outcome:** what the resulting text actually does for whom, in which context?
+- **Selection:** what is retained, discarded or exploited later?
+
+These are **research distinctions**, not a single number or sequential production law.
 
 Literature precedent:
 - Margaret Boden, conceptual spaces and combinational / exploratory / transformational creativity: https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2254/0 ; her newer/earlier work is not evidence for the operator's stronger reduction claim.
@@ -27,7 +53,7 @@ The same abstraction “inversion” might:
 - turn a phrase's semantic direction while leaving its rhythm;
 - reverse a writing instruction (“do not resolve” becomes “resolve prematurely then undo the resolution”).
 
-A library of primitive words like BREAK, TURN, REFORGE alone will yield formulaic writing. Their expressive power arises from **identifying a local relational structure, varying what it acts upon, and observing what the transform does to everything else**.
+Even a mind equipped with little more than ADD, REMOVE, ROTATE and INVERT can generate unexpected possibilities by **applying them indiscriminately across substrates**. They may also yield nonsense, formula and cliché. Sophisticated application, feedback and editing can matter for craft, but **the generative act does not require them**. An atlas helps a computer expose and experiment with primitive operations; it is not a prerequisite for human creativity.
 
 **Working operator card (optional research record, not compulsory generative schema):**
 - **Abstraction:** relational motif or invariant (what transfers?)
@@ -99,19 +125,19 @@ No guarantee of invertibility. “Reforge” is not simply a synonym for a strin
 
 ## 5. Abstraction assimilation — proposed tests
 
-**Transfer test:** Describe a *relational* move demonstrated in financial prose, then use it meaningfully in dialogue, sound, paragraph cadence, or a physical scene **without importing irrelevant surface vocabulary**.
+**Primitive transfer test:** Expose only ADD / SUBTRACT / ROTATE / INVERT, then apply each to unfamiliar substrates (physical object, sentence, inferred intention, rhythmic sequence, authority relation). **Do not require good taste to count a transformation as creative.** Separately measure novelty, intelligibility and effect.
 
 **Inversion test:** Given a convincing transformation, request its inverse and then one reversal of that inverse at a *different scale*. If outputs are all mere synonyms, assimilation is shallow.
 
-**Boundary test:** State where a move cannot be performed without inventing facts or corrupting meaning. A system that sees TURN everywhere has a dictionary, not an assimilated abstraction.
+**Boundary test:** Let a system apply TURN everywhere, including apparently silly places. Count actual structural novelty **before** judging usefulness. Then inspect where applications fail because no invertible relation exists or a non-fictional factual contract forbids invention. General availability must not be mistaken for universal applicability in every exact representation.
 
 **Composition test:** Apply A then B, and B then A, holding some evidence fixed. Demand a substantive explanation of their different affordances.
 
-**Discovery test:** Present writing with no named operation and see whether the system recognises an *unnamed* but actionable pattern. Do not claim the author intended it.
+**Unprompted availability test:** In creation tasks, check whether primitive operations appear on disparate substrates without an operator cue. Compare explicit operator invocation with ordinary generation; do not equate the generator's retrospective explanation with the actual cause of a transformation.
 
 **Meta-transform test:** Permit the model to change its own operator description after encountering a surprising failure; require evidence of improvement on a *different* passage rather than a more elaborate verbal rationale.
 
-**Negative case:** A writer produces unusual, effective work through embodied tacit practice or unreflective response but would not explicitly verbalise any abstractions. The operator's thesis could still be compatible if “assimilation” includes tacit competence, but that compatibility must not make the thesis untestable. We need differentiating predictions beyond “anything creative was secretly abstraction.”
+**Hard disconfirmation attempt:** Compare elementary-transform prompts to unconstrained writing and to complex-transform prompts while blind raters independently mark novelty, quality and sophistication. Seek genuinely creative changes with **no informative operator explanation**, even after broadening the candidate primitive set. If we can always assert that *some* hidden abstraction caused anything novel, M02 is unfalsifiable; do not take that rescue. Conversely, tacit and unreflective use of very elementary transformations is predicted, not an anomaly.
 
 ## 6. Generated impulse ≠ guaranteed movement
 
@@ -149,7 +175,7 @@ The first implementation can be extremely small: typed branchable changes + exac
 ## 9. Model killers
 
 Reject / demote M02 if:
-1. The operation atlas becomes a stylistic menu whose outputs are just predictable templates.
+1. The operation atlas becomes a stylistic menu whose outputs are just predictable templates, or requires specialist intelligent selection before admitting something as creative.
 2. The same transformations do not transfer across substrates without obvious metaphor abuse.
 3. An apparent creative gain disappears when compared to a simple uninterrupted writer with equal compute.
 4. Opportunity scoring merely rewards number of edits, novelty of vocabulary or pseudo-depth.

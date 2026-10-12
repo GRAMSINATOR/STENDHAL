@@ -8,6 +8,7 @@ Direct primary materials:
 - [PF03 Lutz on Schutt and lexical material](PF03-lutz-schutt-material.md)
 - [PF04 Lydia Davis and Ursula Le Guin: punctual evidence](PF04-davis-le-guin-marks.md)
 - [PF05 Gopen and Swan on scientific reader expectations](PF05-gopen-swan-sentence.md)
+- [PF06 Exact grapheme audit of Lutz's Schutt analysis](PF06-lutz-schutt-literal-audit.md)
 
 The cards distinguish primary author/critic claims, attested examples, tentative observations, and missing corroboration. These sources address different **purposes and kinds of prose**; not every difference is a contradiction.
 

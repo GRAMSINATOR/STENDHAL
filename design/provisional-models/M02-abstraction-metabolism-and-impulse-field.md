@@ -184,3 +184,11 @@ Reject / demote M02 if:
 7. “Deep assimilation” is invoked only retrospectively, untestably, for every successful output.
 
 **M02 is a temporary productive theory, not the definition of creativity. We should build M03 from reception or material generation independently, not as M02's obedient descendant.**
+
+## 2026-10-12 microcase — reciprocal attribution is enough to create several meanings
+
+The operator's habitual illustration “The leaves were blowing / The wind was rustling” takes a primitive **INVERT** operation and applies it to *which environmental participant carries which predicate*. The underlying wind/moving-leaves/rustling situation may remain recoverable even as associations are reassigned. The possible result is **expressive density**: familiar event, directly expressed crossed attribution, and a further relation among them. This is sometimes described by the operator as “triple stacking”, **not** a literal constant multiplier or an assured quality gain.
+
+This demonstrates that we should explore **abstraction × relational target**, not only abstraction × sentence. A predicate, property, sensory source, voice ownership, causal role or temporal expectation can each be redistributed. Even a very stupid swap can be genuinely generative; it can equally be a semantic no-op or a false event.
+
+The classical device *hypallage* overlaps with this family, especially double transferred epithets, but is **not** its limit. [Primary operator insight, documented classical and linguistic parallels, and stronger examples](../../research/07-reciprocal-predicate-transfer-and-information-stacking.md). [EXP-009](../../experiments/009-reciprocal-attribution/README.md) attempts to break the attractive hypothesis with close and distant predicate pairs, fact-bound cases, and reader/context comparisons.

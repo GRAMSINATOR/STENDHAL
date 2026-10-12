@@ -28,3 +28,7 @@ The physical filesystem should eventually make **technique families**, **lexical
 6. Can the system recognise when it has insufficient understanding to assert a diagnosis?
 
 **Rule:** a source, an observation, a craft hypothesis, an experimentally supported mechanism and an editorial preference are different epistemic objects.
+
+## Executed research prototype
+
+[EXP-013 — Directional Process Studio](experiments/013-directional-process-prototype/README.md) is the first executable P0 protocol testing flat redundant restatement, purposeful patterned recurrence, false semantic pivots, context-sensitive predicate transfer and explicit intention revision. Its full test results are provisional and researcher-annotated, not independent AI literary evaluation. A compact [dependency-free Python micro-engine](experiments/013-directional-process-prototype/mini.py) is included.

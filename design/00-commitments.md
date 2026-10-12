@@ -4,7 +4,7 @@ These are **design constraints to test**, not an aesthetic manifesto or a frozen
 
 ## Priority asymmetry
 
-- **Enactive** is the design centre: construction, variation, control, composition across scales.
+- **Enactive** is the design centre: construction, variation and composition across scales, including precise intervention **and** productive emergence beyond explicit control. It must not define craft as maximal conscious mastery of every property.
 - **Extractive** is reciprocal to enaction: source reading, mechanism discovery, model revision, transfer testing.
 - **Reflective/editorial** questions whether the *work itself*, its angle, objective, structural choices or criteria of quality should be reconceived. Adversarial, but not compulsively contrarian.
 
@@ -20,7 +20,7 @@ Multiple lenses can inspect the same unit independently: semantic, rhetorical, i
 
 Maintain separate ideas of:
 - Perceptual resolution: what can be distinguished?
-- Enactive resolution: what can be selectively controlled?
+- Enactive resolution: what can be composed, influenced, varied, recognised, retained or deliberately left open—including effects not consciously anticipated?
 - Evaluative resolution: what effects and losses can be appraised, with how much confidence?
 
 ## Scale and reach
@@ -36,7 +36,7 @@ Start with a folder-based, inspectable craft library. Likely ownership areas (st
 - Curated reference sheets used for navigation and selection.
 - Cross-links outside the containment tree.
 
-Writer models may replace the default composition procedure in their domains, not merely change surface diction. A hybrid may borrow functional parts from several sources; blending must be deliberate rather than averaged.
+Writer models may replace the default composition procedure in their domains, not merely change surface diction. A hybrid may borrow functional parts from several sources; blending should be situated rather than mechanically averaged, while leaving room for unanticipated combinations.
 
 ## Upgradability
 
@@ -50,3 +50,12 @@ Never silently globalise one operator preference or one good example. Every corr
 - Do not mistake faithful mimicry for analytical understanding.
 - Do not make source research into a doctrine.
 - Do not privilege the legacy v0.1 journalism stack.
+
+
+## Intention, outcome and productive undercontrol — conceptual correction (2026-10-12)
+
+Intention and outcome may be coupled, decoupled, reciprocally generative and independently real. Neither is the other's universal warrant. Creative outcomes matter whether intended or not; intention may itself emerge from working with a surprising result. A writer's conscious control may vary across interdependent dimensions, and less-controlled properties may be constitutive of style rather than automatically deficient.
+
+**Do not privilege recovered authorial intention as the universal evaluative standard.** Fidelity to a known brief or warranted claim matters when the *task* makes it relevant (e.g. scientific editing); literary and expressive assessment must also inspect actual verbal material, plural reception, context and productive surprises. Nor does this deny local causal influence from intention in particular cases. This is a correction to our inquiry, not a mechanical theory or instruction to improvise by default.
+
+See [the operator's full correction and proposed research probes](../vault/parallel-streams/2026-10-12-02-intention-outcome-autopoiesis-and-partial-control.md).

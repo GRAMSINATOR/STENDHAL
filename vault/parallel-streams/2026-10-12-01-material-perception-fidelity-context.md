@@ -182,3 +182,15 @@ The operator identified a regularly used microscopic writing move: **invert qual
 - [M02 amended](../../design/provisional-models/M02-abstraction-metabolism-and-impulse-field.md) to treat relational property/agency assignment as a primitive operation target.
 
 A useful invented pair for scrutiny: “Her hands raced over the keys. The piano trembled beneath them” → “Her hands trembled over the keys. The piano raced beneath them.” Its new reading may be rich precisely because **it changes the apparent experience and agency**; it cannot be described as simply preserving facts. Opposite semantic no-ops and destructive transfers should be actively sought.
+
+## A composite spontaneous example: Clara and the animated ceremony (2026-10-12)
+
+The operator followed the reciprocal leaves/wind illustration with a more extended original scene: a character awaits lips moving, her name is raised, a glass stands up, a chair laughs, a room claps, Clara's head strikes the ground, a standing ovation is announced, and a low-angle glass returns before blurred vision.
+
+This case discloses **possible coupled elementary transformations**, not one adjacent adjective-swap: reassignment of human agency to objects, ordinary collective metonymy beside less conventional personification, repeated up/standing/down geometry, a recurring glass refunctioned as spatial index, abrupt bodily impact against celebration, delayed perceptual re-framing and apparently dry comic narration. The inferred source event and intended meaning remain contestable.
+
+- [Research 08: microscopic analysis and competing readings](../../research/08-operator-example-ceremony-redistributed-agency.md).
+- [EXP-010: cross-span cascade, deletion/reordering and alternative-reader tests](../../experiments/010-ceremony-cascade/README.md).
+- [M02](../../design/provisional-models/M02-abstraction-metabolism-and-impulse-field.md) now explicitly considers **interacting primitive applications across multiple regions of a paragraph**.
+
+Do not flatten the passage into 'the writer intended a fainting hallucination' or treat every surprising assignment as the same linguistic trope. Its value as an experimental object is partly that **the mechanisms and outcomes remain multiple, and some may exist without premeditation**.

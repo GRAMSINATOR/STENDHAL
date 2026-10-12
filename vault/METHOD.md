@@ -1,3 +1,5 @@
+**Research priority correction (2026-10-12):** Our earlier research drifted into whole-narrative justification and critic verdicts. The primary expedition must be **material craft of prose**—word selection, phoneme/grapheme, syntax, punctuation, stress, phrase relations, rhythmic sequencing, lexical and semantic carryover, at all overlapping scales. Whole-work criticism remains relevant only as supplementary terrain and when examined through actual textual loci. Start at [PROSE-FIRST-RESEARCH-DIRECTIVE.md](PROSE-FIRST-RESEARCH-DIRECTIVE.md).
+
 > **Research correction (2026-10-12):** High-level contradiction means *accomplished authorities, however microscopic their disagreement* — not high theoretical abstraction. First document exactly what each source says and illustrates; do not infer a technique, process, aesthetic implication or genuine opposition until evidence supports it. Read [the corrected method](CONTRADICTION-MAPS.md) and [critical encounters](CRITICAL-ENCOUNTERS.md).
 
 # Research method — acquisition, heterogeneity, and promotion discipline

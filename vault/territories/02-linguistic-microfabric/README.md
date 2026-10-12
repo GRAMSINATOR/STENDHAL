@@ -1,3 +1,5 @@
+**Active research priority:** [Source-first close-reading excavations](excavations/README.md), starting Stevenson, Stein, Lutz, Davis, Le Guin, and Gopen/Swan. The previously indexed sources below are **reconnaissance**, not completed excavation.
+
 # Territory 02 — Linguistic and rhetorical microfabric
 
 **State:** grounded first-pass reconnaissance; **NOT** a deep reading of all works. Each item below is a verified scholarly/publisher/primary entry point or a stable DOI. Individual source close readings, adversarial cross-readings and tactic demonstrations are still to be done.

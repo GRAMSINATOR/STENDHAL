@@ -1,3 +1,5 @@
+**Navigational correction:** Territories are exploration routes, **not balanced pillars**. Prose microfabric is currently the primary research focus; grand narrative debates should not hijack the project. See [Prose-first directive](PROSE-FIRST-RESEARCH-DIRECTIVE.md).
+
 # Seven research territories — provisional exploration chart
 
 The physical divisions are **expedition routes**, not a theory of what writing is. Any source may be linked from several routes. Cross-territory phenomena need not be physically duplicated.

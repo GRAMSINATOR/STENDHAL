@@ -1,3 +1,5 @@
+> **Research correction (2026-10-12):** High-level contradiction means *accomplished authorities, however microscopic their disagreement* — not high theoretical abstraction. First document exactly what each source says and illustrates; do not infer a technique, process, aesthetic implication or genuine opposition until evidence supports it. Read [the corrected method](CONTRADICTION-MAPS.md) and [critical encounters](CRITICAL-ENCOUNTERS.md).
+
 # STENDHAL — Writing Research Vault
 
 **Status:** Research acquisition, not canonical craft instructions.

@@ -14,6 +14,67 @@
 
 **Model correction:** Primitive abstractions (M02) are *tools*, not a compositional process. A static high-resolution expressive field (M01) is an *object of perception*, not a process. M03 must articulate the evolving **interaction of generation, close perception, selective destruction, reorganisation, later contextualisation, changed intention and retained work** without prescribing a single forward pipeline.
 
+## 0. Active kernel: generative intention ↔ enaction ↔ exquisite perception ↔ reaction ↔ revised intention
+
+**Further operator correction (2026-10-12):** “We need some generative intention, then some perception and reaction to the output, further creativity and transformation then refactoring and modification of intention and so on.”
+
+This states M03's working **process kernel**, rather than just a bag of available editing actions.
+
+```text
+         provisional GENERATIVE INTENTION
+                  ↓            ↑
+        ENACT / GENERATE        │
+                  ↓            │
+         TEXTUAL EVENT / DRAFT  │
+                  ↓            │
+          PERCEIVE THE PAGE     │
+                  ↓            │
+   REACT: protect / perturb / fuse / destroy
+                  ↓            │
+       changed work + discovered possibilities
+                  └──→ revise / replace / split
+                       the generative intention
+                             ↘ repeat, branch, stop
+```
+
+**Important qualifications:**
+- This is a **loop that a writing system may instantiate**, not a mandatory account of what a human consciously does. Any event can trigger another (an accidental phrase can create the first articulate intention, spontaneous recognition can occur during generation, and a realised work can have effects without its creator returning).
+- **Intention is a direction or proposition in the working system**, not a pre-existing fixed end-state or proof of an author's mental history. It may be as slight as “try addition on this line,” as complex as a genre/world commitment, or tacit/not explicitly represented for a free-composition condition.
+- **Perception is not a single verdict:** it sees exact textual events, lexical/sound/material relations, implied situations, cross-sentence echoes, voices, factual commitments, absence, reader hypotheses, potentially rewarding mistakes, and where apparent clarity changes the scene. It can conclude “leave this uncorrected.”
+- **Reaction is itself creatively generative**: applying a primitive to an unexpectedly encountered feature may make new material and redefine what the work is attempting. A previous intention can be discarded, not only improved.
+- **Refactoring intention** may mean keeping the initial aim, adding a new competing aim, changing how the aim should be realised, abandoning it, or creating a different piece.
+- The cycle need not be **greedy**: deliberate accumulation of bad provisional writing may be an excellent exploratory move, and expensive reflection can itself be unnecessary in other passages.
+- Distinguish **writer-time** (recursive interventions) from **reader-time** (the sequence of receiving and revising interpretations). They intersect but are not one time axis.
+
+### Perception must be fine-grained enough to change the next available acts
+
+A perceiver should sometimes be able to report:
+- “`cold` was attached to `piano` and now sits on the hands' *action*; the tactile source is only reconstructible from scene context.”
+- “`beating faster` no longer literally describes a heart; it can mean performance tempo, felt instrument vibration or projected anxiety; whether all three are evoked remains unmeasured.”
+- “The nonfinite phrase `The piano beating...` holds a grammatical continuation open; supplying `was` might change pace.”
+- “A very early unheated-loading-bay detail may allow a later cold attribution to remain implicit; readers may nonetheless diverge.”
+- “The present intention 'state all physical facts' conflicts with an emerging aim 'make the scene experienced rather than explained'; this is a **choice about the process's direction**, not a correction of a fixed error.”
+
+Perception should identify what actually changed and which hypotheses have warrant. One annotator cannot certify every layer or readers' experience. Use independent or different-angle analysis *when valuable*, not compulsory comprehensive passes.
+
+### An external process trace, without invented private mental states
+
+For M03 pilot outputs, preserve **material versions, externally issued aims, witnessed differences, perceived possibilities, intentionally retained or abandoned alternatives, and explicitly revised aims**. A model's fluent description of its supposed hidden thinking is not evidence of its generation-time mental events.
+
+```text
+I0: make the audience know her body is stressed and the piano is cold
+E0: state cold and speed repeatedly
+P0: notice repeated cold across room / keys / hands, repeated acceleration in heart / music
+R0: transfer thermal and pulse qualities; retain strong oddness in “racing cold”
+E1: produce a more felt expression
+P1: heart and keys' coldness are no longer *asserted*; does context recover them?
+I1: make a scene in which the instrument carries her panic; seed coldness earlier or leave ambiguous
+E2: test physical setup + later silence; keep alternate redundant version for comparison
+...
+```
+
+**This is a staged, analyst-authored design demonstration**, not an independently logged series of hidden author thoughts. It demonstrates the structure the tool should eventually make testable. See [EXP-012](../../experiments/012-multilayer-process-studio/README.md).
+
 ## 1. The compositional situation is not simply “a draft”
 
 Working material can coexist in heterogeneous forms:

@@ -159,3 +159,16 @@ Following the operator's observation that characteristic **looseness** may emerg
 **Immediate correction:** visible looseness does not identify actual production control. A tightly revised simulation and an unmonitored spontaneous draft can have similar textures. Conversely, highly deliberate local regularity and chance stylistic effects can coexist.
 
 **Proposed rivals:** M02 constraint topology without assumed intention or trajectory, M03 situated reception-first, M04 material-generation-first, M05 adversarial anti-model. Build separately and allow contradictory conclusions; measure explanatory discrimination and failures rather than theory breadth. Preserve the source vault and evidence statuses as independent authority from the model.
+
+
+## Operator clarification: ubiquitous primitive creativity vs sophistication (2026-10-12)
+
+**The operator's correction to our initial M02 formulation is decisive:** all humans are creative; simple abstractions such as ADD, SUBTRACT, ROTATE and INVERT can be deeply assimilated as root tools and applied almost anywhere, even indiscriminately, with creative consequences. More advanced cognition makes more **sophisticated abstractions** deeply assimilable; it does **not** imply a scalar of more/higher creativity. Do **not** make intelligent choice, optimal transfer, specialist artistry or post-hoc evaluation the criterion for whether a novel possibility was creatively generated.
+
+**Updated and created research:**
+- [M02 — corrected abstraction metabolism and opportunity field](../../design/provisional-models/M02-abstraction-metabolism-and-impulse-field.md): explicitly distinguishes elementary generativity, sophistication, craft, effect and selection; preserves the operator's strong claim as a hypothesis to test.
+- [Tool opportunity field](../../research/06-tool-opportunity-field.md): elementary abstractions × physical/linguistic/social/time/inferential substrates; conceptual instruments distinguished from software. Practical implementation can begin with tiny traceable transforms and branch records.
+- [EXP-007 — primitive transformer cross-product](../../experiments/007-primitive-transformers/README.md): blind testing of ADD/SUBTRACT/ROTATE/INVERT across multiple targets, with novelty assessed separately from quality and complexity. **Not run**.
+- [EXP-008 — multi-agent brushstroke relay](../../experiments/008-brushstroke-relay/README.md): incomplete sentence/clause handoffs, branch-preserving local impulses, equal-budget comparisons against single-author work; includes explicitly synthetic illustration. **No true multi-agent run yet**.
+
+The proposed operator field need not be a weighted numeric vector space or hand-curated taxonomy; **the easiest test is simply to apply the most elementary abstractions to unexpected targets and observe what becomes possible.** Beware retroactive operator explanations and easy stylistic gimmicks. The collaborative agent vision remains a separate potentially fruitful regime, not yet product architecture.

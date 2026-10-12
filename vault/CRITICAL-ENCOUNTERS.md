@@ -22,3 +22,10 @@ Records: [Territory 07 critical encounters](territories/07-failure-ai/critical-e
 What did the critic actually perceive? What formal/aesthetic standard did they invoke? What was their textual evidence? Was a passage misquoted, simplified, or read in another edition? Was the critique internally perceptive even when its verdict was rejected? What did later qualified critics add, including features the original critic never mentioned? Does the critic admit strengths or uncertainty?
 
 No compulsory pairings, speculative genius psychologies, universal taste rankings or derived craft engines.
+
+
+## Primary-text triangulation expansion — 2026-10-12
+
+- [PR01 Lear / Tolstoy / Orwell](territories/07-failure-ai/paired-readings/PR01-lear-tolstoy-orwell.md): four passage locations checked against all three sources.
+- [PR02 Hamlet / Eliot / Polonius](territories/07-failure-ai/paired-readings/PR02-hamlet-eliot-polonius.md): direct text–critic pair; no Polonius-specific respondent yet.
+- [PR03 Hamlet / Coleridge / Eliot / C. S. Lewis](territories/07-failure-ai/paired-readings/PR03-hamlet-coleridge-eliot-lewis.md): primary critic disagreements in which each concentrates on a different artistic object; this is **not** a close refutation of Eliot's Polonius-specific objection.

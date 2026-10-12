@@ -1,0 +1,161 @@
+{
+  "version": "M04-P0.3",
+  "description": "Editable question bank with two valid context-dependent partial orders; interpretation is separate.",
+  "questions": {
+    "constrain": {
+      "question": "Impose an explicit constraint now?",
+      "choices": [
+        "yes",
+        "no",
+        "defer"
+      ],
+      "depends_on": []
+    },
+    "scope": {
+      "question": "Where does the constraint apply?",
+      "choices": [
+        "global",
+        "scene",
+        "character",
+        "layered"
+      ],
+      "depends_on": [
+        "constrain"
+      ],
+      "when": {
+        "constrain": [
+          "yes"
+        ]
+      }
+    },
+    "world_rules": {
+      "question": "What physical causality regime is protected?",
+      "choices": [
+        "strict",
+        "permissive",
+        "undetermined"
+      ],
+      "depends_on": [
+        "constrain"
+      ],
+      "when": {
+        "constrain": [
+          "yes"
+        ]
+      }
+    },
+    "stylistic_colouring": {
+      "question": "Strong stylistic colouring?",
+      "choices": [
+        "yes",
+        "no",
+        "defer"
+      ],
+      "depends_on": []
+    },
+    "expressive_layer": {
+      "question": "Where does expressive freedom operate?",
+      "choices": [
+        "emotion",
+        "voice",
+        "character",
+        "world",
+        "multiple"
+      ],
+      "depends_on": [
+        "stylistic_colouring"
+      ],
+      "when": {
+        "stylistic_colouring": [
+          "yes"
+        ]
+      }
+    },
+    "claim_status": {
+      "question": "What sort of claim is this?",
+      "choices": [
+        "literal",
+        "metaphor",
+        "character_perception",
+        "dialogue",
+        "unresolved"
+      ],
+      "depends_on": [
+        "constrain",
+        "stylistic_colouring"
+      ]
+    },
+    "operator": {
+      "question": "What primitive or strategy to apply?",
+      "choices": [
+        "INVERT",
+        "TRANSFER",
+        "REPEAT",
+        "FRACTURE",
+        "NO_EDIT"
+      ],
+      "depends_on": [
+        "claim_status"
+      ]
+    },
+    "realization": {
+      "question": "Keep raw collision or protect actor attachments?",
+      "choices": [
+        "raw",
+        "structured"
+      ],
+      "depends_on": [
+        "operator"
+      ],
+      "when": {
+        "operator": [
+          "INVERT"
+        ]
+      }
+    },
+    "response": {
+      "question": "React to perceived consequences?",
+      "choices": [
+        "preserve",
+        "reframe_intention",
+        "prepare_context",
+        "branch",
+        "stop"
+      ],
+      "depends_on": [
+        "operator"
+      ]
+    }
+  },
+  "strategies": {
+    "constraints_first": [
+      "constrain",
+      "scope",
+      "world_rules",
+      "stylistic_colouring",
+      "expressive_layer",
+      "claim_status",
+      "operator",
+      "realization",
+      "response"
+    ],
+    "voice_first": [
+      "stylistic_colouring",
+      "expressive_layer",
+      "constrain",
+      "scope",
+      "world_rules",
+      "claim_status",
+      "operator",
+      "realization",
+      "response"
+    ]
+  },
+  "transformers": [
+    "INVERT",
+    "TRANSFER",
+    "REPEAT",
+    "FRACTURE",
+    "NO_EDIT"
+  ]
+}

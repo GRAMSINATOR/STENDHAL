@@ -32,3 +32,9 @@ The physical filesystem should eventually make **technique families**, **lexical
 ## Executed research prototype
 
 [EXP-013 — Directional Process Studio](experiments/013-directional-process-prototype/README.md) is the first executable P0 protocol testing flat redundant restatement, purposeful patterned recurrence, false semantic pivots, context-sensitive predicate transfer and explicit intention revision. Its full test results are provisional and researcher-annotated, not independent AI literary evaluation. A compact [dependency-free Python micro-engine](experiments/013-directional-process-prototype/mini.py) is included.
+
+## Temporary models and working decision harness
+
+The research prototypes now include [M01 expressive ecology](design/provisional-models/M01-expressive-ecology.md), [M02 primitive abstraction transformations](design/provisional-models/M02-abstraction-metabolism-and-impulse-field.md), [M03 recursive compositional process](design/provisional-models/M03-transformative-composition-process.md), [M04 layered/scoped tonal commitments](design/provisional-models/M04-scoped-tonal-field.md) and [M05 versionable craft-decision topology](design/provisional-models/M05-adaptive-craft-decision-topology.md). **These are independent, provisional models that should be experimentally broken and redesigned.**
+
+[EXP-015 — configurable decision harness](experiments/015-reconfigurable-decision-harness/README.md) makes nested, guarded questions and two alternative orderings executable from a reusable JSON decision bank. Its expanded local Python experiment passed **20 tests** with hand-authored scenarios and interpretations; the repo has a compact demonstrator and the decision configuration. No claim of autonomous creative perception or of universal stylistic evaluation is made.

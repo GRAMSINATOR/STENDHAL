@@ -194,3 +194,17 @@ This case discloses **possible coupled elementary transformations**, not one adj
 - [M02](../../design/provisional-models/M02-abstraction-metabolism-and-impulse-field.md) now explicitly considers **interacting primitive applications across multiple regions of a paragraph**.
 
 Do not flatten the passage into 'the writer intended a fainting hallucination' or treat every surprising assignment as the same linguistic trope. Its value as an experimental object is partly that **the mechanisms and outcomes remain multiple, and some may exist without premeditation**.
+
+## M03 — Process as the missing coupling of M01 and M02 (2026-10-12)
+
+The operator now makes the central requirement explicit: **some generative intention → write/act → exquisite perception of actual output → reaction and further creative transformations → refactoring/modification of intention → more work**, recursively, with optional branches, abandonment, or immediate success. Intentions and outcomes may influence each other or exist independently, and the loop does not dictate conscious human cognition.
+
+The process may begin in ordered thought, partial text, chaos, deliberate redundancy or surprise. Redundancy may be produced to collapse/fuse/shake later **or kept intact for intended obsessive rhythm**. A temporarily rough draft can be useful for its future affordances. Fine perception must see surface traces, cross-scale interactions, missing literal facts, context-support, speculative reader effects, and preservation-worthy accidents—without manufacturing meanings.
+
+- [M03 — Transformative Composition Process](../../design/provisional-models/M03-transformative-composition-process.md) now foregrounds an explicit generative intention–enaction–perception–reaction–revised intention kernel, while permitting recursive and nonlinear application.
+- [EXP-012 — Multilayer Process Studio](../../experiments/012-multilayer-process-studio/README.md) documents four distinct *researcher-authored*, unvalidated source-specific routes on the cold pianist seed: redundant surplus→fusion→context; chaos→selective structure; order→fracture; intentional redundancy retained. Includes exact observational/semantic consequences and a real experimental comparison plan.
+- [Forensic perception specification](../../design/03-forensic-perception.md) gains an actionable perceptual-return protocol and failure criteria.
+
+The first cycle's important example is that coldness can migrate into moving hands while a heart's beat migrates onto the piano, but literal claims may be lost; an additional musical-rest scene can emerge as a **new intention**, not an original requirement. Reader uptake remains unmeasured; do not report literary improvements as demonstrated outcomes.
+
+No automatic replacement of M01/M02; M03 provides a *testing substrate* for how they might interact. Retain contradictory routes and fail fast on fake subtlety or contrived explanations.

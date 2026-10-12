@@ -87,3 +87,10 @@ A sublexical index could become a useful **research instrument** without claimin
 **First investigate the indexing deficit.** Retain Flaubert/Dickinson/Proust revision archaeology and the blind-recomposition hypothesis as valuable, separate research tracks. Do not present an external set of passes, a vector space or a classifier as the answer in advance.
 
 See [Experiment 005 — sublexical indexing probes](../experiments/005-phonological-indexing/README.md), **proposed, not run**.
+
+## Additional source and essential separation — 2026-10-12
+
+- Loakman, Li and Lin (EMNLP 2024) investigate sound symbolism and model agreement with human judgments of linguistic iconicity; **sound-symbolic associations** are not the same as phoneme or syllable representations. https://aclanthology.org/2024.emnlp-main.167/ . See [sound-symbolism evidence](05-sound-symbolism-evidence.md).
+- The Flaubert rough-draft contrast *sifflement / bruissement* gives a particularly useful two-part question: the **sound named by a word** and the **sound made by the word**. These must not be conflated. [Direct manuscript microcase](../vault/territories/02-linguistic-microfabric/genetic-revisions/GR07-sound-noun-not-sound-of-word.md).
+
+Neither example establishes the operator's under-indexing hypothesis for a particular model. It helps identify what evidence would test it correctly.

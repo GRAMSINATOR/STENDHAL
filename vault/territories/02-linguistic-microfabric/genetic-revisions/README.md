@@ -44,3 +44,7 @@ The *Madame Bovary* project is vast, with manuscript and transcription work by R
 - [EXP04 — Visible editing versus withheld regeneration](../../../experiments/EXP04-discarded-draft-prose-material.md): controlled experimental design; **not run**.
 
 None is a compulsory new drafting technique or proof of a universal rewrite benefit.
+
+## GR04 — Recomposition without access to the old wording
+
+[GR04 — Compose, erase, and write anew](GR04-rewrite-without-looking.md): first-person practitioner reports from Awkward-Rich and Stohlman, recursive-revision research from Sommers, and the operator's distinct hypothesis that a discarded draft may leave behind a transformed creative orientation. Compare the [expression-perception research proposition](../../../../research/03-expression-perception-asymmetry.md) and [Experiment 004 (proposed)](../../../../experiments/004-blind-recomposition/README.md). Neither claims a validated generating architecture.

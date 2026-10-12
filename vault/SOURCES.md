@@ -29,3 +29,15 @@ An individual work may appear in several territories because territory membershi
 - A genuine range of non-Western, non-English, oral and popular craft traditions.
 - Empirical examples of both effective difficulty and actual incoherence.
 - Verified original text and context for future line-level quotation; avoid bulk copying.
+
+
+## Newly screened Expedition III sources (2026-10-12)
+
+This registry began as a 7-region inventory. It now includes an eighth provisional region. The detailed new dossiers contain source links and local access-status claims:
+- [Lincoln/Seward and King](territories/04-oratory-performance/excavations/E04-01-lincoln-seward-king.md) — original Library of Congress draft/variant transcriptions and Stanford King's Institute history.
+- [Gopen/Swan, Sword and IMRAD survey](territories/05-science-epistemics/excavations/E05-01-reader-position-evidence-and-convention.md) — primary journal articles and author descriptions.
+- [Miall/Kuiken and Marco/Gonzalo/Fresno](territories/06-reader-cognition/excavations/E06-01-foregrounding-versus-reader-plurality.md) — peer-reviewed empirical reports, abstracts and sample descriptions.
+- [Orwell/Pullum](territories/07-failure-ai/excavations/E07-01-good-advice-misdiagnosed.md) — original essay and author-hosted critical essay.
+- [Sanskrit/Chinese/Arabic/oral literature](territories/08-comparative-oral-world-poetics/README.md) — original Chinese passage plus secondary expert exposition, primary fieldwork/publisher excerpts and stated gaps.
+
+**Counts above refer to the original acquisition pass**, not the complete current inventory. Do not report a unique source count from the territorial entries because cross-listings deliberately duplicate references.

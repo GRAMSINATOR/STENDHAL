@@ -31,3 +31,10 @@ The route sequence is a *research management process*, never a universal composi
 Territory 01: first deep index and disagreements **created**.
 Territories 02–07: grounded starting entries **seeded**; need their own heavy excavation passes.
 The next tranche should deepen *one* territory using full texts, variants and manuscript examples rather than increase the bibliography alone.
+
+
+## Eighth provisional region — not a taxonomy
+
+| 08 | World poetics and oral performance | Sanskrit *dhvani*, Chinese *shenglü*, Arabic *naẓm*, oral-formulaic work, ritual parallelism and multimodal performance. | A genuine technical challenge to one-metre-bound formula account from parallelism research; no imposed unified theory. |
+
+[Expedition III map](EXPEDITION-03-REGION-PLAN.md). The original seven-region table above is a historical map, not exhaustive. This eighth route is exploratory, not a homogenising category of 'non-Western writing'.

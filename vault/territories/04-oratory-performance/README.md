@@ -64,3 +64,8 @@ A full range of schools, era-specific and non-English traditions, practitioner c
 ## Operational gate
 
 Nothing in this dossier is promoted into a reusable craft rule. A subsequent excavation must identify source-grounded microtechniques, interacting/nonlocal mechanisms, genuine opposing models, and possible tests of enaction.
+
+
+## New source-led excavation
+
+[2026 Expedition III: Lincoln–Seward speech drafts and King's performance](excavations/E04-01-lincoln-seward-king.md). This is a first screening/selected textual study with explicit source-access qualifications, not full territory completion.

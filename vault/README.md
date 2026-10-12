@@ -38,3 +38,17 @@ Start with:
 **[Experiment 004](../experiments/004-blind-recomposition/README.md)** is a separate proposed comparison of fresh generation, visible revision, clean-context rewriting and rewriting given limited nonlexical observations from an earlier draft. It is **not** proof of LLM tacit experience or human cognition.
 
 These tracks remain separate until evidence establishes useful relationships. None prescribes a vector space or compulsory number of analytic passes.
+
+
+## Expedition III — other regions, 2026-10-12
+
+[Six-region research plan](EXPEDITION-03-REGION-PLAN.md). These are **source-led encounters, not adopted techniques**. Five existing territories have their first newly excavated dossiers, and a separate eighth research route now covers cross-cultural poetics and oral craft.
+
+- [03 — Voice, thought and free indirect prose](territories/03-narrative-subtext/excavations/E03-01-thought-voice-and-free-indirect.md)
+- [04 — Lincoln/Seward and King: speeches as revised and performed words](territories/04-oratory-performance/excavations/E04-01-lincoln-seward-king.md)
+- [05 — Scientific sentences, readership and changing genre conventions](territories/05-science-epistemics/excavations/E05-01-reader-position-evidence-and-convention.md)
+- [06 — Foregrounding versus heterogeneous reader judgments](territories/06-reader-cognition/excavations/E06-01-foregrounding-versus-reader-plurality.md)
+- [07 — Orwell, Pullum and flawed style rules](territories/07-failure-ai/excavations/E07-01-good-advice-misdiagnosed.md)
+- [08 — Classical Indian, Chinese, Arabic, African and oral-traditional poetics](territories/08-comparative-oral-world-poetics/README.md)
+
+**Research quality:** archive transcriptions and selected primary passages where available; journal abstracts, publisher descriptions and expert summaries otherwise. Detailed language-specific primary excavation remains outstanding.

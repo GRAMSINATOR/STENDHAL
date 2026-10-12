@@ -230,3 +230,17 @@ Jean Giono's *Un roi sans divertissement* provides a genuine source-based advers
 - Previous [EXP-013](../../experiments/013-directional-process-prototype/README.md) explicitly amended to remove its overstrong editorial inference, not to change the actual primitive transformation witness.
 
 Local P0.2 code bundle: **16 prior + 10 new unittest cases passed**, after correcting one inaccurate new assertion. All interpretations in the new lab are **human-provided**, not independently inferred or reader-measured. P1 requires consequential perception, exposure to genuinely different literary regimes, broader temporal context and branch-preserving generation.
+
+## M04/M05 — Scoped tonal worlds inside a reconfigurable strategy topology (2026-10-12)
+
+The operator introduced a new *layered* view: **radical constraints** can give a work a strong identifiable character, but they apply in different domains and scopes. A scientific spacefaring story can have strict physical causality, expressionist emotional language and a single absurdly voiced character. Breaking a local expectation may be productive even when a different layer remains inviolable.
+
+Then came a crucial architectural correction: **the deeper system is not a giant tonal vector**. There are competing views and approaches; we need reconfigurable nested decision trees/graphs whose **questions and tools are themselves reusable, relocatable, replaceable and evolvable**. Suggested nodes ask whether to impose radical constraints, whether to colour style strongly, at which scale, and what to do when the work resists its original constraints. Question ordering has conditional dependencies, not one universal aesthetic workflow. A future creative/perceptual cycle may change the harness itself.
+
+- [M04 — scoped tonal field and competing laws](../../design/provisional-models/M04-scoped-tonal-field.md).
+- [M05 — adaptive craft decision topology](../../design/provisional-models/M05-adaptive-craft-decision-topology.md).
+- [EXP-015 — first runnable reconfigurable graph / P0.3](../../experiments/015-reconfigurable-decision-harness/README.md), including editable [question bank](../../experiments/015-reconfigurable-decision-harness/decision_tree.json) and a [compact micro-engine](../../experiments/015-reconfigurable-decision-harness/mini.py).
+
+**Actual executed P0.3:** standard-library local script, five researcher-defined contexts, two question-order strategies, **20 passing tests** for dependencies, guarded skips, literal/figurative collision distinction, different scopes, actual micro-transformation, intention refactoring and adding a question to the bank. Full locally executed source/results are in the separate companion ZIP `STENDHAL_EXP015_decision_harness_P03.zip`. Interpretations and decisions remain human-authored fixtures, **not autonomous literary insight**; changing question order currently changes the trace, not the output given identical choices.
+
+Do not conflate physical-law conflict with globally bad literature, and do not overgeneralise named tonal dimensions into a compulsory scoring space. The next meaningful P1 is **witness-grounded autonomous perception that can alter which questions get asked**, with adversarial checks and compare-against-baseline evidence.

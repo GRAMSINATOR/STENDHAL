@@ -54,3 +54,7 @@ User criticism can change the territorial chart, the source choice, the analysis
 ## Immediate quality gate
 
 A vault entry is poor if it contains no **source-specific observation**, no honest access status, no meaningful tension or countercase, or no question that could improve perception/enaction. High bibliographic count alone does not pass.
+
+## Qualified contradiction maps as research generators
+
+A strongly evidenced, **scope-qualified** disagreement can reveal entire distinct families of craft operations, compositional processes, and failure modes. Do not merely contrast doctrines or seek a midpoint. Extract the separate machinery implied by each position and test the boundaries of compatibility. **Do not invent contradictions to create rhetorical interest.** See [Qualified contradictions as generators](CONTRADICTION-MAPS.md).

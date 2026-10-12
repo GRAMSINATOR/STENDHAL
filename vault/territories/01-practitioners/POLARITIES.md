@@ -53,3 +53,7 @@ An interview may contain performance, retrospective rationalisation, real observ
 ## Initial refusal set
 
 Reject polarities based solely on macho/dainty, classical/modern, high/low, short/long, clear/obscure, popular/literary or rule-breaking/rule-following. These erase richer differences in *process and structure*. Preserve such categories only when an actual source makes them analytically useful.
+
+## Detailed generative blueprint
+
+[PC01 — Preconfigured structure versus structure emergent from writing](polarity-blueprints/PC01-planned-vs-emergent-composition.md) expands a qualified opposition into separate candidate processes, tactical families, cross-scale requirements, failure modes, hybrid boundaries and enactive experiments. This is a research blueprint, not a forced binary or a validated rule.

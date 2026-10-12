@@ -89,3 +89,11 @@ Harness revision must be backed by a **scoped, testable reason**, not an ad-hoc 
 - Updating the decision graph in a way that makes previous runs impossible to reproduce.
 
 **Next test:** replace externally supplied interpretive hypotheses with separately generated, adversarially checked perceptions; then allow those to alter the next question sequence or instantiate a new question based on an actual output, without assuming every new question helps.
+
+## Deferred optional branch: discursive roles, perspective and utterance (2026-10-12)
+
+The operator corrected another fiction-centric assumption. **Character presence is not a universal prerequisite of expressive voice, and dialogue speech is not equivalent to focal perspective.** A press article may have no characters but a strong editorial voice; a first-person journalist may leave analysis for an embedded recollection or quoted interview and then return; a story may have one focal viewpoint but several socially distinct dialogue speakers; a literary narrative may have no characters at all.
+
+[See M05a — optional voice, perspective, character and utterance questions](M05a-optional-voice-perspective-utterance-roles.md). For now, treat this as a **deferred candidate subtree**, not executable mandatory questions. The first question would be whether relevant speaking/focal roles exist in this particular section, **not** “How many fictional characters?”. Separate medium/discourse contract, textual voice, situated epistemic access, character embodiment, represented utterance, social/communicative act and frame shifts. Their coexistence is not identity. Speech utterances are locally purposeful or expressive; they can conflict with private perspective, and may operate under source quotation/fidelity constraints in reportage.
+
+**Do not alter EXP-015's P0.3 claim or its JSON branch** as if the postponed character subsystem had been designed or tested. Later test its conditional usefulness under essay, press, narrative, scripted dialogue and characterless literary regimes.

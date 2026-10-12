@@ -172,3 +172,13 @@ Following the operator's observation that characteristic **looseness** may emerg
 - [EXP-008 — multi-agent brushstroke relay](../../experiments/008-brushstroke-relay/README.md): incomplete sentence/clause handoffs, branch-preserving local impulses, equal-budget comparisons against single-author work; includes explicitly synthetic illustration. **No true multi-agent run yet**.
 
 The proposed operator field need not be a weighted numeric vector space or hand-curated taxonomy; **the easiest test is simply to apply the most elementary abstractions to unexpected targets and observe what becomes possible.** Beware retroactive operator explanations and easy stylistic gimmicks. The collaborative agent vision remains a separate potentially fruitful regime, not yet product architecture.
+
+## Primitive inversion as reciprocal attribution — “leaves blowing / wind rustling” (2026-10-12)
+
+The operator identified a regularly used microscopic writing move: **invert qualifiers/predications between connected participants**. Ordinary associations (wind blows, leaves rustle) may remain inferable while the wording crosses them (“leaves were blowing / wind was rustling”), sometimes producing layered information in exceptionally little language. The claim is conditional: no literal 3x metric, guaranteed poetic improvement or necessary historical explanation from one named figure.
+
+- [Research 07: reciprocal predicates, historical hypallage parallels and information stacking](../../research/07-reciprocal-predicate-transfer-and-information-stacking.md).
+- [EXP-009: reciprocal attribution probes with negative controls](../../experiments/009-reciprocal-attribution/README.md).
+- [M02 amended](../../design/provisional-models/M02-abstraction-metabolism-and-impulse-field.md) to treat relational property/agency assignment as a primitive operation target.
+
+A useful invented pair for scrutiny: “Her hands raced over the keys. The piano trembled beneath them” → “Her hands trembled over the keys. The piano raced beneath them.” Its new reading may be rich precisely because **it changes the apparent experience and agency**; it cannot be described as simply preserving facts. Opposite semantic no-ops and destructive transfers should be actively sought.

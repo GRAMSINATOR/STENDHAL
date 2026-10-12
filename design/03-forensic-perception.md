@@ -85,3 +85,45 @@ Do not infer that skilled writers consciously performed the annotation. The appa
 The forensic apparatus must not convert its interest in agency into an intention-first filter. A critic can discover and defend a meaningful pattern without evidence it was consciously chosen. Conversely, source/witness uncertainty still matters for accurately identifying *which* material is being read; neither accidental origin nor absent authorial testimony negates an observed effect. Writing processes may recursively alter intention through outcomes, and the result may outrun the initial plan.
 
 Evaluate creative effects in their own contexts rather than making authorial fidelity the default tribunal. Preserve precision about task-bound obligations (science, contractual claims, faithful copyediting) without imposing them as the aesthetic purpose of all writing. Fine enactive capacity includes recognition and retention of productive uncontrolled aspects, not only selective manipulation. See [parallel stream correction](../vault/parallel-streams/2026-10-12-02-intention-outcome-autopoiesis-and-partial-control.md).
+
+## Perception as the active steering organ of a transformative process (2026-10-12)
+
+**M03 integration:** [transformative composition](provisional-models/M03-transformative-composition-process.md) proposes a recurrent kernel: **generative intention → enaction → observed material → perceptual return → reaction/transform → revised or branched intention**. The first experimental traces are in [EXP-012](../experiments/012-multilayer-process-studio/README.md). This is a proposed harness behaviour, not a claim that human writers perform explicit sequential introspective steps.
+
+An exquisite perceptual return must do more than provide stylistic adjectives. It must sometimes identify, with *actual textual warrants*:
+
+1. **Witness:** what material changed, at which exact span and witness/version (including punctuation, word placement and pronoun/tense ownership)?
+2. **Relations:** which sound, syntactic, semantic, perspectival, spatial or nonlocal relationships have appeared, moved, weakened or disappeared?
+3. **Inferences:** what is *said*, what is only *inferable* in particular context, and what can remain undecided? Which new relation depends on a specific reader's knowledge?
+4. **Collateral:** what did the change sacrifice? Did a literary gain also invent a physical act, change quantification, break a rule of scene geometry, or introduce a new ambiguous voice?
+5. **Potential:** which next primitive transformations become available because of this change? Is a bad-looking surplus valuable as raw material, or is an irregularity worth protecting?
+6. **Critical alternatives:** does an independent reading refute the effect? Could a simpler sentence, or no revision, be better? What does the analyst *not* know?
+7. **Intention impact:** is the current aim supported, undermined, split, or made obsolete by what the text now does? **The action may be to change the aim itself.**
+
+**These are questions that can be asked when relevant, not seven obligatory labels per sentence or a fixed quantitative score.** A model that confidently invents beautiful explanations of effects that are not supported by the page is less perceptive than one identifying a precise modest relation and its limits.
+
+### Example: cold pianist
+
+Source conditions: cold instrument, distressed pianist, rising physiological pulse and playing tempo.
+
+- Witness change: `cold piano` → `hands raced cold across the keys`; `heart beating faster` → `piano beating faster`.
+- A perceptive return should notice **distribution of coldness and beat**, and that the transferred version **no longer literally asserts** cold keys or fast heartbeat. It may evoke these facts by inference from a prior open door or other setup, but that is not automatic.
+- It should inspect whether the fragmentary `The piano beating...` contributes to felt continuation or creates unwanted syntactic stumbling.
+- It should distinguish the dramatic invention `She took neither` (at two bars of rest) from the prior source facts. This is admissible in fictional exploration but is **new story content**, not a stylistic re-expression of identical facts.
+- It can suggest a new intention: *make the player's struggle with stopping the centre of the scene*, even though the original aim focused on stress/temperature.
+- It can also **decline** to change intention and keep the direct description as a different appropriate work.
+
+### Why this may improve actual LLM prose
+
+A generator often has ample fluency and access to plausible continuations. The missing capability might not be ignorance of the abstraction itself but insufficient *active perceptual re-entry* into what its own expression actually entails, evokes and affords across scales. This is a **candidate explanatory hypothesis**, not an established result for all LLMs. The loop should test whether external independent inspection and later recomposition produce changes impossible for a simple additional drafting budget.
+
+### How to reject the perceptual module
+
+- It consistently notices symbolic ghosts but misses grammatical/physical facts.
+- Its observations do not cause concrete, independently checkable changes in subsequent creative options.
+- It always recommends simplification or elegance regardless of the regime.
+- It mistakes detailed post-hoc explanation for actual source or audience evidence.
+- It forces a fragile tacit writing process into an exhausting bureaucracy.
+- It cannot identify that the most appropriate next action is **no action** or **abandon the objective**.
+
+**Process requirement:** every *experimentally asserted* perceptual insight should link to a visible witness and a falsifiable downstream opportunity or decision. No requirement that writers or generators explicitly perform such a log in everyday drafting.

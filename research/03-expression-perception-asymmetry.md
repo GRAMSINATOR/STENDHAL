@@ -1,5 +1,8 @@
 # Research hypothesis — fluency of meaning versus material perception of expression
 
+> **Operator correction, 2026-10-12:** The central claim here concerns **under-indexing of phonics / phonological structure**, rather than a general failure of control over words. The model may possess or recover relevant word-sound knowledge but may not naturally allocate it enough representational prominence when selecting expressive language. "Control" is a *possible downstream question*, not the proposed explanation. Phonology (structured sound) must be distinguished from spelling, etymology, connotation and visual form. See [research/04 — phonological under-indexing](04-phonological-under-indexing.md).
+
+
 **Status: 2026-10-12.** An operator's conceptual insight, accompanied by specific outside evidence and limitations. NOT a model introspection report, a universal theory of expression, or a proposed new vector space.
 
 ## Insight to preserve

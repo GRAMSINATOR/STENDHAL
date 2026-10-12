@@ -16,9 +16,9 @@ Separate observations at least provisionally into:
 - **Surface trace:** a describable feature (word order, collocation, comma, phoneme pattern, recurrence).
 - **Relational observation:** the feature's connection to other elements in nearby or distant contexts.
 - **Functional hypothesis:** an interpretation of what the feature does.
-- **Agency hypothesis:** evidence-supported claim that someone deliberately did it, versus emergent effect or reading convention.
+- **Agency hypothesis:** a carefully qualified account of what may have been deliberately selected, improvised, habitually produced, collaboratively or editorially introduced, or merely encountered by a reader. These can overlap; neither perceived effectiveness nor the absence of recorded intention uniquely determines genesis.
 - **Reader-effect hypothesis:** a proposed effect on attention, inference, emotion or perception, not yet independently observed.
-- **Enactive affordance:** a specific property the generator might control or perturb.
+- **Enactive affordance:** a property the generator might construct, influence, perturb, notice, preserve or allow to emerge without complete advance specification.
 - **Technique candidate:** a possibly reusable and nameable operation; not every observation must be promoted to one.
 
 One observed string may support multiple relations and readings; one proposed effect may depend on many surface traces; one alleged device may split into several at finer resolution. A missing name is not absence of mechanism.
@@ -78,3 +78,10 @@ A high count is not itself a success. A fashionable named device unsupported by 
 **Reflective/editorial:** adversarial challenge to the *entire chosen approach*, to aesthetic criteria, and to mistaken causal explanations; may protect productive deviations from reductive edits.
 
 Do not infer that skilled writers consciously performed the annotation. The apparatus models affordances and possible effects, not their private experience.
+
+
+## Non-intentional effects are still real (operator correction, 2026-10-12)
+
+The forensic apparatus must not convert its interest in agency into an intention-first filter. A critic can discover and defend a meaningful pattern without evidence it was consciously chosen. Conversely, source/witness uncertainty still matters for accurately identifying *which* material is being read; neither accidental origin nor absent authorial testimony negates an observed effect. Writing processes may recursively alter intention through outcomes, and the result may outrun the initial plan.
+
+Evaluate creative effects in their own contexts rather than making authorial fidelity the default tribunal. Preserve precision about task-bound obligations (science, contractual claims, faithful copyediting) without imposing them as the aesthetic purpose of all writing. Fine enactive capacity includes recognition and retention of productive uncontrolled aspects, not only selective manipulation. See [parallel stream correction](../vault/parallel-streams/2026-10-12-02-intention-outcome-autopoiesis-and-partial-control.md).

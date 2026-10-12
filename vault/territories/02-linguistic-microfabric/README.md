@@ -74,3 +74,6 @@ A full range of schools, era-specific and non-English traditions, practitioner c
 ## Operational gate
 
 Nothing in this dossier is promoted into a reusable craft rule. A subsequent excavation must identify source-grounded microtechniques, interacting/nonlocal mechanisms, genuine opposing models, and possible tests of enaction.
+
+
+**Latest deep reading:** [Austen/Flaubert microfabric casebook, including textual witness checks](excavations/README.md), Expedition 02.

@@ -24,7 +24,7 @@ Even this strongly sound-specific ancient aesthetic discussion does **not** posi
 
 ## Serious philosophical counterpressure, not manufactured uniform agreement
 
-Saam Trivedi, “Anandavardhana on Literary Suggestion,” *Journal of Comparative Literature and Aesthetics* 48(4), Winter 2025, pp. 1–11, direct article: https://jcla.in/wp-content/uploads/2025/09/JCLA-48.4_Winter-2025-Saam-Trivedi.pdf . Correct public PDF URL: https://jcla.in/wp-content/uploads/2025/09/JCLA-48.4_Winter-2025_Saam-Trivedi.pdf .
+Saam Trivedi, “Anandavardhana on Literary Suggestion,” *Journal of Comparative Literature and Aesthetics* 48(4), Winter 2025, pp. 1–11, direct article: https://jcla.in/wp-content/uploads/2025/09/JCLA-48.4_Winter-2025_Saam-Trivedi.pdf .
 
 In his analysis (esp. journal p. 7), Trivedi explicitly **rejects dogmatic single-rasa dominance** as an absolute aesthetic requirement and asks why equal and potentially conflicting rasas could not produce valuable new work. He also draws a crucial distinction between **actually feeling** a rasa and merely **thinking of** or calling that affect to mind. The latter is not empirical evidence for the former. He questions over-reliance on authorial intention in assigning the suggested effect.
 
@@ -32,7 +32,7 @@ In his analysis (esp. journal p. 7), Trivedi explicitly **rejects dogmatic singl
 
 ## Connection to phonological under-indexing, properly separated
 
-See [research/04](../../../research/04-phonological-under-indexing.md) in repo; path resolution from this folder is `../../../research/04-phonological-under-indexing.md`.
+See [the phonological under-indexing research hypothesis](../../../../research/04-phonological-under-indexing.md).
 
 An LLM might:
 1. enumerate the consonant patterns correctly;

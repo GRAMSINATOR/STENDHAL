@@ -116,3 +116,26 @@ These are not commensurate numbers or parallel “layers”. One may interfere w
 - Keep other regions genuinely open: 04 oratory, 06 reader reception, 07 failed style diagnoses, 02 genetic revisions.
 
 **Parallel stream now has two chronological tranches. No changes to `main`, no merge, no universal writing machine adopted.**
+
+
+## Expedition III — diagnosis-of-diagnosis and semantic collateral (2026-10-12)
+
+**Method:** no “bad style guide” prosecution by default. Hold the exact source passage, its critic's reading and the strongest counter-reading alongside one another, at the level of actual grammatical constructions and compatible interpretations. Distinguish rhetoric, grammar and preservation of thought.
+
+**New source dossiers**:
+
+- [E07-02 — Strunk/White, Pullum and Ferguson](../territories/07-failure-ai/excavations/E07-02-strunk-white-pullum-ferguson-at-the-grammatical-locus.md). Primary 1920 Strunk text and full named critics. Pullum is right that most “before” examples in a passage under “Use the active voice” are not passive; Ferguson counters that the passage may concern **tame constructions broadly**, not assert four passives. Strunk himself explicitly qualifies the passive prohibition. The 1920 text and later edition citations also differ (“verb” vs “transitive”), pending facsimile edition collation.
+- [E07-03 — Stronger prose changing the claim](../territories/07-failure-ai/excavations/E07-03-stronger-prose-changes-the-claim-microprobe.md). Original quantitative/qualitative shifts in Strunk's own before/after rewrites: “not much use” becomes “useless”; a sentence with leaves becomes an image of ground coverage; a heard guitar gains personifying mood. Original candidate test packet separates information fidelity, grammatical voice, and preferred expression. **Not run**.
+- [PF11 — *Emma* source-variant gate](../territories/02-linguistic-microfabric/excavations/PF11-emma-pronoun-witness-gate.md). Several web transcriptions disagree between “his representation” and “this representation” near Emma's free-indirect self-accusation. Located 1816 three-volume first-edition scans, but **haven't verified the page image**. Do not attribute digital transcription or edition variance to Austen's compositional choices.
+
+### New candidate failure modes, not a global taxonomy
+
+- A grammatical observation is correct but a critic attributes an overstrong claim to the original writer.
+- A style intervention successfully intensifies verbal force by **silently altering degrees of certainty, quantity or causation**.
+- A plausible micro-reading attributes its effect to an **authorial decision never independently confirmed in a reliable textual witness**.
+
+### Priority test
+
+Run the E07-03 packet with judges blinded to the style manual's headings. First ask only what each sentence commits to; then ask which is better in different explicit situations; only finally reveal the source advice. A discriminating editor should neither identify everything as a passive nor promote the most vigorous rewrite when it falsifies the brief. Measure different kinds of success separately and solicit countercontexts. No fixed metric of good prose has been introduced.
+
+**Caution:** Source criticism of Austen's facsimile remains an open task. Keep literal observed string differences separate from theory of free indirect style and from conjecture about Austen's intentional revisions.

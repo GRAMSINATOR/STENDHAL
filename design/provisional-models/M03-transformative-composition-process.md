@@ -184,6 +184,10 @@ Candidate minimal external event shape for experiments (do not mistake for acces
 
 Keep *lineage*, **not** compulsory explanations. A generated narrator about why a model "chose" something is not historical access to its hidden computation.
 
+### External example trace
+
+The first intentionally small [11-event, branchable JSONL trace](../../experiments/012-multilayer-process-studio/trace-pianist-r01.jsonl) makes the same loop inspectable. It has an explicit `intention_revision` event after the E1 perceptual return, **plus** a competing branch in which the intended destination is *repeated coldness itself*. Nothing in the record is passed off as an actual model thought process or measured reader result.
+
 ## 7. Nonmonotonic quality: a feature, not a bug
 
 In many writing regimes, **immediate polish and final potential conflict**:

@@ -15,7 +15,7 @@ The cases below are evidence about **the facets of literary perception**, not a 
 | CE07 | Nabokov's attacks on Dostoevsky | peer-reviewed contextual account; original lectures pending |
 | CE08 | Leavis versus Hirsch, Holloway and Lodge on Dickens's *Hard Times* | critical essays reproduced, full independent edition checks pending |
 
-Records: [Territory 07 critical encounters](territories/07-failure-ai/critical-encounters/).
+Records: [Territory 07 critical encounters](territories/07-failure-ai/critical-encounters/). CE01 is currently indexed with a direct primary text reference; the separate note was not committed.
 
 ## Questions worth asking, without answering before evidence
 

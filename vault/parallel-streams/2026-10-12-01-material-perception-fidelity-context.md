@@ -244,3 +244,11 @@ Then came a crucial architectural correction: **the deeper system is not a giant
 **Actual executed P0.3:** standard-library local script, five researcher-defined contexts, two question-order strategies, **20 passing tests** for dependencies, guarded skips, literal/figurative collision distinction, different scopes, actual micro-transformation, intention refactoring and adding a question to the bank. Full locally executed source/results are in the separate companion ZIP `STENDHAL_EXP015_decision_harness_P03.zip`. Interpretations and decisions remain human-authored fixtures, **not autonomous literary insight**; changing question order currently changes the trace, not the output given identical choices.
 
 Do not conflate physical-law conflict with globally bad literature, and do not overgeneralise named tonal dimensions into a compulsory scoring space. The next meaningful P1 is **witness-grounded autonomous perception that can alter which questions get asked**, with adversarial checks and compare-against-baseline evidence.
+
+## Temporal mixture and the next real perceptual experiment (2026-10-12)
+
+The operator observes that writing is **a cocktail evolving over time**: tones, registers, constraints, source/character presence, purposes and expressive devices interact, fade and change significance. A long text may open room for more shifts but need not use them; a short paragraph may remain tonally steady or hinge on one extremely consequential contrast. *Variation itself is not progress.*
+
+The immediate work should **not** be M06 or another hand-scored tone matrix. [EXP-016](../../experiments/016-temporal-perception-p1/README.md) proposes real P1 comparisons: a short paragraph, first-person article with a remembered scene and quotation, and a literary scene with strictly physical causation but flexible expression. Compare one-shot vs “polish” vs a blind separate *perceptual return → changed intention → rewriting* process at known budgets. Require witness-grounded observations of actual local and nonlocal movement; allow stillness and unedited successes.
+
+**State:** P1 experiment specified in GitHub, not independently run; a model execution interface and separate contexts would be required to support autonomous/perceptual claims.

@@ -164,7 +164,7 @@ Possible modes:
 
 **Danger:** multi-agent consensus editing tends to homogenise, and uncoordinated splashing tends to produce confetti prose. Both must be compared with one skilled uninterrupted writer, a simple revision chain, and the same total token/cost budget. Number of agents is not literary merit.
 
-See [EXP-008](../../experiments/008-brushstroke-relay/README.md).
+See [EXP-008](../../experiments/008-brushstroke-relay/README.md). For the even simpler primitive-only cross-substrate probe, see [EXP-007](../../experiments/007-primitive-transformers/README.md).
 
 ## 8. Technical opportunity field (see dedicated tool map)
 

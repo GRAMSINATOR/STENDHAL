@@ -77,3 +77,7 @@ Nothing in this dossier is promoted into a reusable craft rule. A subsequent exc
 
 
 **Latest deep reading:** [Austen/Flaubert microfabric casebook, including textual witness checks](excavations/README.md), Expedition 02.
+
+## Revision archaeology — opened 2026-10-12
+
+[The genetic-revision research collection](genetic-revisions/README.md) now contains one **attested Flaubert manuscript alteration**, a separate institutional record of Dickinson's alternative words, and the BnF's source lead for Proust's corrected proofs. Historical change, interpretive effect and later technique hypotheses are deliberately separated.

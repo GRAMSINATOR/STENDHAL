@@ -115,3 +115,14 @@ A lightweight implementation needs: (a) versioned source corpus, (b) prompt conf
 - If simpler processes outperform P1, preserve them as legitimate alternative pathways.
 
 **Status:** experiment specified, not run. Next practical act is model-in-the-loop execution with actual separate contexts and branch logs.
+
+
+## Executed scaled pilot (2026-10-12) — distinct from the full P1 study
+
+An initial **live, same-assistant-context pilot** has now been executed. Its [actual results](pilot_2026-10-12/RESULTS.md), [three perception-led B2 passages](pilot_2026-10-12/B2-actual-revisions.md), and [witnessed perceptual returns / revised intentions](pilot_2026-10-12/PERCEPTUAL-RETURNS.md) are committed. A complete conversation-delivered ZIP additionally contains **all nine staged prose files**, full structured reports, external diff/process events and executable Python audit code.
+
+Measured descriptive word counts: S **139/127/139** (B0/B1/B2), J **478/377/438**, N **475/374/529**. The local audit ran **16/16 passing tests** after catching a J/B2 punctuation change within an exact source quotation. All user-required fictional constraints/three numerical transport facts are preserved by text-witness checks. These tests verify source string obligations and process records, **not aesthetic superiority**.
+
+**The comparison is NOT blind, independent, length-complete or compute-normalized.** The assistant wrote B0, B1, all perception reports and B2 in one conversational context. The original longer J and N target ranges were shortened for this exploratory run, which cannot demonstrate full article/chapter trajectory management. B2 may actually be worse in some ways; the source-anchored review records that possibility.
+
+The original P1 specification above remains the **uncompleted rigorous next step**. Do not mistake this scaled pilot for separate model contexts or external audience validation.

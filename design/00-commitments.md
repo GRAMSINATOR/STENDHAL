@@ -59,3 +59,11 @@ Intention and outcome may be coupled, decoupled, reciprocally generative and ind
 **Do not privilege recovered authorial intention as the universal evaluative standard.** Fidelity to a known brief or warranted claim matters when the *task* makes it relevant (e.g. scientific editing); literary and expressive assessment must also inspect actual verbal material, plural reception, context and productive surprises. Nor does this deny local causal influence from intention in particular cases. This is a correction to our inquiry, not a mechanical theory or instruction to improvise by default.
 
 See [the operator's full correction and proposed research probes](../vault/parallel-streams/2026-10-12-02-intention-outcome-autopoiesis-and-partial-control.md).
+
+## Process is a primary research object (2026-10-12)
+
+The working centre has progressed from source-reading and an arsenal of primitive abstractions to a **recurrent generative process**: provisional intention, material expression, perceptual return, creative reaction, recomposition and **refactoring of intention itself**. None is a required universal first step for human writers; in STENDHAL it is a testable engine architecture. A process may deliberately create surplus or roughness as intermediate material. It may keep apparent redundancy for its own expressive effect. **Do not maximise local polish on every iteration.**
+
+Enactive movement without perceptual re-entry risks stock transformation gimmicks. Perception without another act risks elegant diagnosis that generates nothing. A fixed original intention without revision misses the writing's capacity to discover what it is trying to become.
+
+See [M03](provisional-models/M03-transformative-composition-process.md), [EXP-012](../experiments/012-multilayer-process-studio/README.md), and the [forensic-perception return protocol](03-forensic-perception.md).

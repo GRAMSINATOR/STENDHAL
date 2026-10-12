@@ -3,6 +3,10 @@
 **2026-10-12. STENDHAL greenfield, provisional demonstration.**
 **Status:** transparent researcher-authored workbench and pre-registered comparative experiment. **NOT** a measured AI improvement, independent agent rollout, or reader test. The state and observations below were authored explicitly for this experiment, not recovered from private internal reasoning. See [M03](../../design/provisional-models/M03-transformative-composition-process.md), [M02](../../design/provisional-models/M02-abstraction-metabolism-and-impulse-field.md), [case 07 reciprocal attribution](../../research/07-reciprocal-predicate-transfer-and-information-stacking.md).
 
+## An actual inspectable process artefact (demonstration, not model telemetry)
+
+[trace-pianist-r01.jsonl](trace-pianist-r01.jsonl) records an **11-event branchable process trace** with explicit author-issued aims, successive versions, perception returns grounded in small spans, a goal revision, an alternative branch that **retains redundancy**, and an unresolved final comparison. It is **synthetic researcher-authored process data**, not a hidden cognition trace, autonomous agent execution, reader evidence or proof of improved writing. The event structure is experimental; it can be reduced or replaced after use.
+
 ## Objective
 
 Develop a writing process that can start in order, surplus, chance or partial intention, and then **enact → perceive → react → invent again → revise intention**. It should retain the capacity to *destroy* or *protect* passages, to collect reusable lessons from rejected drafts, and to recognize the consequences of edits at several interacting scales.

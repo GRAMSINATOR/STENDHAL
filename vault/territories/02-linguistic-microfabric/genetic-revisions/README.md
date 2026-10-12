@@ -48,3 +48,11 @@ None is a compulsory new drafting technique or proof of a universal rewrite bene
 ## GR04 — Recomposition without access to the old wording
 
 [GR04 — Compose, erase, and write anew](GR04-rewrite-without-looking.md): first-person practitioner reports from Awkward-Rich and Stohlman, recursive-revision research from Sommers, and the operator's distinct hypothesis that a discarded draft may leave behind a transformed creative orientation. Compare the [expression-perception research proposition](../../../../research/03-expression-perception-asymmetry.md) and [Experiment 004 (proposed)](../../../../experiments/004-blind-recomposition/README.md). Neither claims a validated generating architecture.
+
+## GR05–GR07 — The microscopic rough-draft excavation (2026-10-12)
+
+- [GR05 — Four Flaubert rough folios compared to the autograph and printed text](GR05-flaubert-rough-draft-variants.md): attested deletions and variants at word, phrase and sentence levels; **folio order is not chronology**.
+- [GR06 — Evidence gate: draft differences vs intention and reader effects](GR06-revision-archeology-evidence-gate.md): no unearned claims of compositional psychology from crossed-out words.
+- [GR07 — Acoustic meaning versus the phonetics of the word itself](GR07-sound-noun-not-sound-of-word.md): the historically attested *sifflement/bruissement* variant must not be confused with an analysed sound pattern in the utterance.
+
+**Parallel experimental research:** [phonological under-indexing](../../../../research/04-phonological-under-indexing.md), [sound symbolism as a separate facet](../../../../research/05-sound-symbolism-evidence.md), and [Experiment 005, proposed](../../../../experiments/005-phonological-indexing/README.md).

@@ -45,3 +45,9 @@
 Austen's focal-proximity passage and Giono's radically reclassified object do **not** combine into a synthetic master method. A shared perceiver can inspect either text for material grounding, expectation and shifts of apparent meaning; that does not imply a writer must combine their preferred tools in one paragraph.
 
 **Experimental constraint:** Source study can enlarge **perception** broadly. Active use must be selected, declined or deferred on the evidence of the *particular target*, not because its profile is loaded. Only a 35–70-word micro-span will be written per target initially. No mandatory phonological, thematic, tonal or lexical interventions.
+
+## Interruption / independent cross-check (2026-10-13)
+
+The operator corrected the assumption that a source-derived skill corresponds to one isolable visible device. In strong passages, **many perceptual observations can converge** on the same tiny decision, which might itself emerge from a coherent vision or process rather than separable interventions. A source profile should thus record **overlapping and uncertain explanations with one shared text witness**, *not* emit every detected technique. The needed action may be a singular choice or no edit.
+
+See the subsequent [cross-source challenge](03-convergent-perception-and-restraint.md), including Proust's vision, Hemingway's qualified omission, Poe's purposeful effect, Woolf's shifting experiential form, Austen's fused voice, and genuinely opposed cases of conspicuous foregrounding and deliberate repetition. Nothing in this correction makes unobtrusive writing universally preferable.

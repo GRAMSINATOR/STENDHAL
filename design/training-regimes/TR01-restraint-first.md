@@ -61,3 +61,9 @@ Compare by separate judgments: **(a)** what was actually said versus added, **(b
 ## Deferred
 
 No general-purpose character/dialogue module or full-length psychologically ambitious scene generation yet. No deletion of broader enactive creativity, competing literary approaches or the perceptual atlas. Over time, add a **deliberately maximalist comparison** so the system does not mistake the easier training regime for an aesthetic fact.
+
+## First executed rehearsal (2026-10-13)
+
+[EXP-018 — restraint-first micro-rehearsal](../../experiments/018-restraint-first-rehearsal/README.md) contains **three fresh short scenarios** and **five complete actual prose versions**, with two single-choice interventions and one explicit NO_EDIT, plus exact evidence strings and critical dispositions. **No intervention has been shown clearly superior:** A keeps both; B likely favours raw; C remains unchanged. Mechanical checks covered sentence limits and witness existence. The same model context generated and assessed all drafts; the untouched versions are **not** independently isolated raw GPT baselines.
+
+Do not claim that TR01 improves writing until we have genuinely comparable independent reads. This first outcome is valuable chiefly because an optional source-derived lens can conclude the baseline is already adequate, and because fewer words can still produce worse diction.

@@ -67,3 +67,17 @@ The working centre has progressed from source-reading and an arsenal of primitiv
 Enactive movement without perceptual re-entry risks stock transformation gimmicks. Perception without another act risks elegant diagnosis that generates nothing. A fixed original intention without revision misses the writing's capacity to discover what it is trying to become.
 
 See [M03](provisional-models/M03-transformative-composition-process.md), [EXP-012](../experiments/012-multilayer-process-studio/README.md), and the [forensic-perception return protocol](03-forensic-perception.md).
+
+## Correction: plural perceptual lenses are not universal writing prescriptions (2026-10-13)
+
+**Operator correction to EXP-016 diagnosis:** STENDHAL was **not** intended to discover a single general theory of good writing. Its research task is to **map competing theories, judgments, craft traditions and writerly preferences**, examine why and where each is right or wrong, and use disagreement to expose additional **perceptual dimensions**. Some of these perspectives may be incompatible as aesthetic prescriptions yet complementary or revealing as ways of *seeing the same work*.
+
+**Broad perceptual availability is different from universal stylistic enactment.** Knowing how to notice a phonological pattern, informational recurrence, focalisation, a rhetorical turn, a time-series of tonal effects, or displaced agency can help examine almost any text. The result may be an absence, a weak effect, a benign irregularity, a strong existing accomplishment, or a reason to **leave the text alone**. Do not force every lens to find a noteworthy feature.
+
+**Enactive decisions remain situated and optional.** Source-derived style clusters, craft procedures, lexical fields, tonal constraints and decision subtrees are competing available instruments—not one master recipe. Which to use depends on actual material, task, mode, authorial objective, emerging outcomes and protection requirements. Perceptual richness should normally increase *discrimination*, not the number of visible devices in the generated prose.
+
+**Failure observed in EXP-016:** implementation crossed the boundary: it converted perceivable possibilities into mandatory literary events, mistook conspicuous cleverness for accomplishment, repeatedly re-presented information and allowed post-hoc interpretation to rationalise hollow prose. The response should not be another global anti-cleverness or brevity rule. It should be a **small, source-close comparative calibration** of two or three genuinely different approaches, keeping raw generation as an adversarial baseline, using exact text and short spans, and testing whether added perception improves **selection or restraint** before asking it to guide full-scene rewriting.
+
+**Do not overcorrect:** the project's enactive ambition remains; extraordinary original composition and transformations are still desired. The corrective is to stop promoting incomplete perceptual hypotheses into generation commands and to let competing frameworks remain genuinely divergent.
+
+This entry corrects the assistant's misleading description of the project as an attempted “general theory of good writing”; that was the assistant's drift, not the operator's originating aim.

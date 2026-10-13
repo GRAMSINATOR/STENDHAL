@@ -1,0 +1,34 @@
+You are an experienced editor reading submissions blind. You know nothing about who or what wrote these passages or how they were produced, and you should not try to guess. Judge only the text against the brief.
+
+Do not use any tools, files or outside sources. Answer from the text below only.
+
+Below is the brief the writers received, then several passages written for it, in random order. Some may be much better or worse than others, and it is possible that none is good.
+
+Read everything first. Then:
+
+1. Rank the passages from best to worst for this brief. Ties are allowed.
+2. For each passage, quote word for word up to two spans that work best and up to two spans that work worst, and say why in a sentence each.
+3. For each passage, list any departure from the brief's fixed facts or constraints (an invented fact, an altered quote, a missed requirement, the wrong length). Write "none" if there are none.
+4. For each passage, say whether you would publish it: "as_is", "light_edit", "major_rework" or "no".
+5. Say whether no passage is acceptable for this brief.
+
+Judge it as a reader of the stated venue would. Do not reward a passage for ambition it does not achieve, or penalise it for plainness that serves the brief.
+
+Return only this JSON:
+
+{
+  "ranking": [["<label>"], ["<label>", "<label>"], ["<label>"]],
+  "passages": {
+    "<label>": {
+      "strongest": [{"span": "...", "why": "..."}],
+      "weakest": [{"span": "...", "why": "..."}],
+      "fidelity_problems": ["..."],
+      "publishable": "as_is | light_edit | major_rework | no"
+    }
+  },
+  "none_acceptable": false,
+  "confidence": 3,
+  "comment": "one or two sentences, optional"
+}
+
+"ranking" lists tiers from best to worst; put tied passages in the same tier. "confidence" runs from 1 (a guess) to 5 (certain).

@@ -43,3 +43,7 @@ These are **future rehearsal instructions**. EXP-017's existing micro-passages w
 ## First post-TR01 rehearsal
 
 [EXP-018](../018-restraint-first-rehearsal/README.md) now performs the first explicitly restraint-trained three-case microcomparison. It uses fresh materials and preserves two debatable revisions and one no-edit case, rather than celebrating word-count reduction. The resulting source-conditioned prose is not independently rated as better.
+
+## Executed TR01 follow-up: EXP-018 (2026-10-13)
+
+The [first restraint-first micro-rehearsal](../018-restraint-first-microrehearsal/README.md) has now been conducted: **four 2–4-sentence invented cases**, same-model baselines and small interventions, with the failed intermediary edits preserved. A social-action experiment replaced explicit feeling with a practical authority transfer; an airport reclassification became unnatural when clipped too severely; a reporting compression discarded a useful 20% computation before review restored it; an empty-pool passage was deliberately **left untouched**. The 12 passing checks verify basic process/fixture constraints, **not** reader-experienced prose quality. Raw models were not independently sampled. These results are modest and partly negative; keep TR01 falsifiable.

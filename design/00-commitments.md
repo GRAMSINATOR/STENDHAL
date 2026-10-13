@@ -81,3 +81,13 @@ See [M03](provisional-models/M03-transformative-composition-process.md), [EXP-01
 **Do not overcorrect:** the project's enactive ambition remains; extraordinary original composition and transformations are still desired. The corrective is to stop promoting incomplete perceptual hypotheses into generation commands and to let competing frameworks remain genuinely divergent.
 
 This entry corrects the assistant's misleading description of the project as an attempted “general theory of good writing”; that was the assistant's drift, not the operator's originating aim.
+
+## Source-tested refinement: perceptual convergence is not an enactment checklist (2026-10-13)
+
+The operator adds a consequential distinction: **several perceptual models can legitimately converge on the same small textual event**, and many stylistic functions can be so mutually embedded that splitting them into named techniques is analytically uncertain. This is **welcome perceptual redundancy**, not five independent votes for quality and not an instruction to visibly enact five figures. Broad perception should support discerning choice, deliberate nonintervention and strong consistent expressive commitments.
+
+Independent writer/theorist stress check: **Proust** stresses style as vision; **Hemingway** differentiates knowledge-backed omission from hollow omissions; **Poe** advances planned unity of effect (not obligatory for emergent composition); **Woolf** resists imposed form to attend to shifting impressions; **Austen** presents difficult-to-separate narrator/character voice in free indirect discourse. Contradictions remain live. Empirical **Miall/Kuiken** foregrounding studies and **Stein's** repetition/insistence position provide counterexamples to treating unobtrusive restraint and nonrepetition as universal ends.
+
+**Specific operational rule of inquiry, not a prose rule:** preserve multiple witness-grounded explanations, noting where they are correlated and where they truly disagree; distinguish interpretations of text from causal claims about the writer's process and predictions about readers. A perceiver may find more and recommend no edit. Conversely a writer may choose a visible, abrupt, repeated or excessive device when that is the artistic destination.
+
+[EXP-017 — small-source comparative calibration](../experiments/017-source-grounded-microcalibration/README.md) studies two possible approaches (Austen/Giono), three short passages and an explicit non-use condition. All new passages are same-context generated, and no taste improvement has been independently demonstrated. **Do not feed the number of detected lenses into a demand for stylistic decoration.**

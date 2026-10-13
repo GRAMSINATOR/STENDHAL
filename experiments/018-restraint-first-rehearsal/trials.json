@@ -1,0 +1,158 @@
+{
+  "experiment": "EXP-018",
+  "date": "2026-10-13",
+  "methodological_status": "same-context, non-blind, not independently read or budget-matched",
+  "regime": "TR01-restraint-first",
+  "cases": [
+    {
+      "id": "A",
+      "title": "Varnish: social consequence without narrated shame",
+      "genre": "fiction",
+      "fixture": [
+        "Mara publicly cuts off Niko's warning that the varnish on a frame is not dry",
+        "Ten minutes later the varnish marks her cuff as she lifts the frame",
+        "Niko offers a rag",
+        "No apology is required in the source facts"
+      ],
+      "source_profile": "Austen/E03-02: narrated physical event can carry character evaluation; do not imitate Austen diction",
+      "raw": "Mara interrupted Niko's warning and told the staff the frame was dry. Ten minutes later, when she lifted it, varnish marked her cuff. Niko handed her a rag. She accepted it without saying anything.",
+      "initial_intention": "State the public error and what follows, without inventing a private monologue.",
+      "perceived": [
+        {
+          "witness": "interrupted Niko's warning",
+          "lens": [
+            "social",
+            "temporal"
+          ],
+          "finding": "A public dismissal is established before the physical proof; these lenses track overlapping event relations.",
+          "status": "textually grounded"
+        },
+        {
+          "witness": "varnish marked her cuff",
+          "lens": [
+            "material",
+            "causal",
+            "ethical"
+          ],
+          "finding": "The stain is a physical consequence that also changes how the previous assertion reads.",
+          "status": "context-supported interpretation"
+        },
+        {
+          "witness": "She accepted it without saying anything",
+          "lens": [
+            "social",
+            "perspective",
+            "rhythm"
+          ],
+          "finding": "Silence could suggest embarrassment, annoyance or mere attention; it does not prove remorse.",
+          "status": "underdetermined"
+        }
+      ],
+      "intervention": "Make the original dismissal an audible act and leave the social aftermath in gesture; no explicit psychological interpretation.",
+      "variant": "“Dry,” Mara said, cutting Niko off in front of the staff. Ten minutes later she lifted the frame and got varnish on her cuff. Niko held out a rag. She took it.",
+      "change_scope": "local direct speech and gesture instead of explaining dismissal or silence",
+      "criticism": "The raw version may be smoother; 'got varnish' is unremarkable and 'she took it' is not guaranteed to carry more emotion. The revision makes dialogue more explicit but does not prove literary gain.",
+      "provisional_choice": "keep_both"
+    },
+    {
+      "id": "B",
+      "title": "Painting: physical reclassification with no cosmic flourish",
+      "genre": "fiction",
+      "fixture": [
+        "A museum guard sees a white line crossing a painting",
+        "He initially thinks it is glare from gallery lighting",
+        "He moves sideways but the line persists",
+        "At close range a tear in the canvas exposes the white wall behind",
+        "No vandal identity or cause is established"
+      ],
+      "source_profile": "Giono/R10: a material observation can be reclassified by later physical disclosure; do not borrow cosmic diction or violence",
+      "raw": "The guard thought the white line across the painting was a reflection from the gallery lights. He moved sideways, but the line stayed where it was. He went closer and found a tear in the canvas; the white wall showed through.",
+      "initial_intention": "Show a false identification revised by observation, without inventing a perpetrator.",
+      "perceived": [
+        {
+          "witness": "white line across the painting",
+          "lens": [
+            "spatial",
+            "visual",
+            "epistemic"
+          ],
+          "finding": "One visible mark is available for two competing physical explanations.",
+          "status": "textually grounded"
+        },
+        {
+          "witness": "He moved sideways",
+          "lens": [
+            "action",
+            "reader-time"
+          ],
+          "finding": "A movement supplies evidence rather than mere atmospheric business.",
+          "status": "textually grounded"
+        },
+        {
+          "witness": "white wall showed through",
+          "lens": [
+            "material",
+            "reclassification"
+          ],
+          "finding": "A close view resolves line as exposed wall rather than glare.",
+          "status": "textually grounded"
+        }
+      ],
+      "intervention": "Trust the physical step and final evidence; remove explanatory framing without changing the cause.",
+      "variant": "The guard stepped left to lose the glare. The white line across the painting didn't move. Up close, he could see the wall through a tear in the canvas.",
+      "change_scope": "compress explanation and delay explicit physical reclassification until final clause",
+      "criticism": "'To lose the glare' may sound like evading brightness rather than testing an optical hypothesis. The raw version is more precise about his initial assumption; shorter does not establish better.",
+      "provisional_choice": "raw_may_win"
+    },
+    {
+      "id": "C",
+      "title": "Recycling notice: refusal to stylize",
+      "genre": "public-information notice; all facts are invented exercise fixtures",
+      "fixture": [
+        "Council drop-off point opens 1 November",
+        "Accepts household batteries",
+        "Accepts small electronics",
+        "Does not accept large appliances",
+        "Existing council collection service accepts large appliances"
+      ],
+      "source_profile": "none; source style tools not recruited",
+      "raw": "The council will open a recycling drop-off point on 1 November. It will accept household batteries and small electronics, but not large appliances; residents can use the existing collection service for those.",
+      "initial_intention": "Deliver correct service information directly and efficiently.",
+      "perceived": [
+        {
+          "witness": "1 November",
+          "lens": [
+            "information",
+            "timing"
+          ],
+          "finding": "Date establishes when the new service becomes available.",
+          "status": "textually grounded"
+        },
+        {
+          "witness": "batteries and small electronics, but not large appliances",
+          "lens": [
+            "categorization",
+            "contrast",
+            "practical choice"
+          ],
+          "finding": "One clause provides positive eligibility and a negative boundary.",
+          "status": "textually grounded"
+        },
+        {
+          "witness": "existing collection service",
+          "lens": [
+            "continuity",
+            "practical routing"
+          ],
+          "finding": "Gives an alternative action for excluded objects.",
+          "status": "textually grounded"
+        }
+      ],
+      "intervention": "NO_EDIT",
+      "variant": null,
+      "change_scope": "none",
+      "criticism": "Could be broken into shorter sentences for accessibility in some channels, but there is no identified need in the fixture; no claimed reader evidence.",
+      "provisional_choice": "keep_raw"
+    }
+  ]
+}

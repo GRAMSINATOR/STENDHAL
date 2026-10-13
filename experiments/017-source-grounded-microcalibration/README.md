@@ -33,3 +33,9 @@ Use the same compact source profiles but give an independent perceiver a **witne
 ## Repository state
 
 Research branch `rebuild/enactive-greenfield-2026-10`; `main` untouched. The source atlas and broad perceptual disagreements remain live independent research, not abandoned in favour of these first two narrowly usable profiles.
+
+## Operator-selected active training profile (2026-10-13)
+
+After the cross-source qualification, the operator clarifies that **for training now**, restraint is preferable because sophisticated maximalism requires more reliably developed craft than our first prototypes exhibit. Use [TR01 — restraint-first](../../design/training-regimes/TR01-restraint-first.md): hold one radical governing choice, generate **one to four sentences** by default, let lexical and sonic fields, context and implication do multiple jobs, avoid grand pseudo-insights and unnecessary re-explanation, and keep the unmodified baseline in contention. Broad and redundant perception is welcome; conspicuous separate enactment of every perceived technique is not. This is **a phase-limited pragmatic preference**, not a repeal of Stein, Woolf, Poe or the evidence that deliberate excess can be brilliant.
+
+These are **future rehearsal instructions**. EXP-017's existing micro-passages were authored before this explicit training regime and do not verify that TR01 improves them.

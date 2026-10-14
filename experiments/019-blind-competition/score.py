@@ -20,7 +20,10 @@ HERE = Path(__file__).resolve().parent
 MODEL_FAMILIES = ("gpt", "claude")
 N_SUPPORT = 4  # briefs (of 6) where the arm must beat A, in both model families
 MAX_HARM = 1   # briefs where A may beat the arm, in either family, for SUPPORTED
-N_REJECT = 4   # briefs where the arm fails to beat A, in both families, for REJECTED
+N_REJECT = 4   # briefs where the arm fails to beat A, in both families
+EXPECTED_BRIEFS = ("E1", "E2", "F1", "F2", "R1", "R2")
+EXPECTED_JUDGES = ("gpt1", "gpt2", "gpt3", "claude1", "claude2", "claude3", "human1")
+EXPECTED_PREDICTORS = ("stendhal", "control"), for REJECTED
 
 
 def family(judge: str) -> str:
@@ -82,6 +85,22 @@ def verdict(results: dict[str, dict[str, str]], arm: str) -> str:
 def report(root: Path) -> str:
     keys, judgments, predictions = load(root)
     briefs = sorted(keys)
+    if briefs != sorted(EXPECTED_BRIEFS):
+        raise SystemExit(f"Incomplete/wrong briefs: expected {sorted(EXPECTED_BRIEFS)}, found {briefs}")
+    for b in briefs:
+        present = set(judgments[b])
+        required = set(EXPECTED_JUDGES)
+        if present != required:
+            raise SystemExit(
+                f"{b}: judge roster incomplete/wrong; missing {sorted(required - present)}, "
+                f"unexpected {sorted(present - required)}"
+            )
+    for pred in EXPECTED_PREDICTORS:
+        present = set(predictions[pred])
+        if present != set(EXPECTED_BRIEFS):
+            raise SystemExit(
+                f"{pred}: predictions incomplete; missing {sorted(set(EXPECTED_BRIEFS) - present)}"
+            )
     groups = defaultdict(lambda: defaultdict(dict))  # family -> brief -> judge -> judgment
     for b in briefs:
         for judge, j in judgments[b].items():
@@ -178,9 +197,8 @@ def report(root: Path) -> str:
 def selftest() -> None:
     with tempfile.TemporaryDirectory() as tmp:
         root = Path(tmp)
-        judges = ["gpt1", "gpt2", "claude1", "claude2"]
-        for i in range(6):
-            b = f"X{i}"
+        judges = list(EXPECTED_JUDGES)
+        for i, b in enumerate(EXPECTED_BRIEFS):
             no_edit = i == 5
             passages = {"p1": ["A", "C"], "p2": ["B"]} if no_edit else {"p1": ["A"], "p2": ["B"], "p3": ["C"]}
             mapping = {j: {lab: pid for lab, pid in zip("KMT", passages)} for j in judges}
@@ -203,13 +221,13 @@ def selftest() -> None:
                 (d / f"{b}.json").write_text(json.dumps({"pairwise": pw}))
         text = report(root)
         assert "**C vs A (primary): SUPPORTED**" in text, text
-        assert "X4 (gpt)" in text and "X4 (claude)" in text
-        assert "- X5: A vs B majority" in text
+        assert "R1 (gpt)" in text and "R1 (claude)" in text
+        assert "- R2: A vs B majority" in text
         assert "| stendhal | gpt | 5 | 0.80 |" in text, text
         assert "| control | claude | 5 | 0.20 | 0.70 | 1/1 |" in text, text
-        res = {f: {f"X{i}": ("A" if i < 4 else "C") for i in range(6)} for f in MODEL_FAMILIES}
+        res = {f: {b: ("A" if i < 4 else "C") for i, b in enumerate(EXPECTED_BRIEFS)} for f in MODEL_FAMILIES}
         assert verdict(res, "C") == "REJECTED"
-        res["gpt"] = {f"X{i}": "C" for i in range(6)}
+        res["gpt"] = {b: "C" for b in EXPECTED_BRIEFS}
         assert verdict(res, "C") == "INCONCLUSIVE"
     print("score selftest: ok")
 

@@ -104,3 +104,20 @@ outputs/<BRIEF_ID>/transcripts/   (full C/D working transcripts, commit after ju
 ```
 
 Commit `A.md`–`D.md` and the effort logs before any prediction or judging. Commit the C/D transcripts **after** judging, so nothing about the process can reach a judge by accident.
+
+## Running it: `run_gpt.py`
+
+`run_gpt.py` carries out this protocol through the OpenAI API (standard library only, `--selftest` uses a fake API). Each request is one stateless call, so there is no memory, no custom instructions and no earlier turns. Run `--dry-run` first to print every exact request without sending anything. The same printout is what you would paste into Unpersonalized Temporary Chats if you don't use the API.
+
+The runner makes two choices that the protocol left open:
+
+- **"Loading" the resources means:** the manifest's files, read from the manifest's commit with `git show`, go verbatim and in order into a system message, each under a `--- STENDHAL resource: <path> ---` header. Nothing else is added. A, B and P-CONTROL get no system message.
+- **C is a single call,** like B. This removes the extra-inference confound: if C wins, it isn't because it was allowed more attempts.
+
+It also enforces the following:
+- one attempt per condition (it never overwrites an output);
+- one automatic regeneration on a mechanical failure (empty, truncated, or more than 25% outside the word range);
+- NO_EDIT handling;
+- the same model and settings for A, B and C within a brief;
+- the full request and response saved under `outputs/<brief>/transcripts/`;
+- an `effort-log.json` per brief that includes the model name the API reports.

@@ -85,6 +85,7 @@ resources-manifest.md                         STENDHAL condition definition (fil
 prediction-form.md                            sealed prediction prompt and format
 judge-prompt.txt                              exact judge instructions
 judging-log.md                                hashes, runs, exclusions, unblinding
-anonymise.py   score.py                       stdlib only; both have --selftest
+run_gpt.py                                    GPT generation, predictions and GPT judges via the API
+anonymise.py   score.py                       stdlib only; all three scripts have --selftest
 outputs/  predictions/  packets/  judgments/  key/    created during the run
 ```

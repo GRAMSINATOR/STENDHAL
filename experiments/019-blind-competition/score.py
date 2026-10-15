@@ -20,10 +20,10 @@ HERE = Path(__file__).resolve().parent
 MODEL_FAMILIES = ("gpt", "claude")
 N_SUPPORT = 4  # briefs (of 6) where the arm must beat A, in both model families
 MAX_HARM = 1   # briefs where A may beat the arm, in either family, for SUPPORTED
-N_REJECT = 4   # briefs where the arm fails to beat A, in both families
+N_REJECT = 4   # briefs where the arm fails to beat A, in both families, for REJECTED
 EXPECTED_BRIEFS = ("E1", "E2", "F1", "F2", "R1", "R2")
 EXPECTED_JUDGES = ("gpt1", "gpt2", "gpt3", "claude1", "claude2", "claude3", "human1")
-EXPECTED_PREDICTORS = ("stendhal", "control"), for REJECTED
+EXPECTED_PREDICTORS = ("stendhal", "control")
 
 
 def family(judge: str) -> str:
